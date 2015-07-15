@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->html()
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<description>Kirby: ->html()</description>
+	<scope>source.php</scope>
+</snippet>

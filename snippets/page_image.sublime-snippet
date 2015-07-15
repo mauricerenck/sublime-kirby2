@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->image(${2:filename})
+]]></content>
+	<tabTrigger>image</tabTrigger>
+	<description>Kirby: $page->image($filename = false)</description>
+	<scope>source.php</scope>
+</snippet>

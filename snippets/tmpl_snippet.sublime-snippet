@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+snippet('${1:header}');
+]]></content>
+	<tabTrigger>snippet</tabTrigger>
+	<description>Kirby: snippet()</description>
+	<scope>source.php</scope>
+</snippet>

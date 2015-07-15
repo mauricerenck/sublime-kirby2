@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->isDescendantOfActive()
+]]></content>
+	<tabTrigger>isDescendantOfActive</tabTrigger>
+	<description>Kirby: $page->isDescendantOfActive()</description>
+	<scope>source.php</scope>
+</snippet>

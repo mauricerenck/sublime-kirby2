@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->intendedTemplateFile()
+]]></content>
+	<tabTrigger>intendedTemplateFile</tabTrigger>
+	<description>Kirby: $page->intendedTemplateFile()</description>
+	<scope>source.php</scope>
+</snippet>

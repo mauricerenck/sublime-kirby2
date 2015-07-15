@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->hide()
+]]></content>
+	<tabTrigger>hide</tabTrigger>
+	<description>Kirby: $page->hide()</description>
+	<scope>source.php</scope>
+</snippet>

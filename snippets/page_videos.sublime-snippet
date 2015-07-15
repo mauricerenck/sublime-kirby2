@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->videos()
+]]></content>
+	<tabTrigger>videos</tabTrigger>
+	<description>Kirby: $page->videos()</description>
+	<scope>source.php</scope>
+</snippet>

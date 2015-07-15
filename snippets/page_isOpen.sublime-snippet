@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->isOpen()
+]]></content>
+	<tabTrigger>isOpen</tabTrigger>
+	<description>Kirby: $page->isOpen()</description>
+	<scope>source.php</scope>
+</snippet>

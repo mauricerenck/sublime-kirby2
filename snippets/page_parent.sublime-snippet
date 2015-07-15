@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->parent()
+]]></content>
+	<tabTrigger>parent</tabTrigger>
+	<description>Kirby: $page->parent()</description>
+	<scope>source.php</scope>
+</snippet>

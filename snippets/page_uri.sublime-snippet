@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->uri()
+]]></content>
+	<tabTrigger>uri</tabTrigger>
+	<description>Kirby: $page->uri()</description>
+	<scope>source.php</scope>
+</snippet>

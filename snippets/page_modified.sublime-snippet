@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->modified(${2:'format'})
+]]></content>
+	<tabTrigger>modified</tabTrigger>
+	<description>Kirby: $page->modified($format = false)</description>
+	<scope>source.php</scope>
+</snippet>

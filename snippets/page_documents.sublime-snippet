@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->documents()
+]]></content>
+	<tabTrigger>documents</tabTrigger>
+	<description>Kirby: $page->documents()</description>
+	<scope>source.php</scope>
+</snippet>

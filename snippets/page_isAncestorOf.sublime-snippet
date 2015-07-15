@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->isAncestorOf(${2:\$child})
+]]></content>
+	<tabTrigger>isAncestorOf</tabTrigger>
+	<description>Kirby: $page->isAncestorOf($child)</description>
+	<scope>source.php</scope>
+</snippet>

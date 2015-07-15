@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->prevVisible()
+]]></content>
+	<tabTrigger>prevVisible</tabTrigger>
+	<description>Kirby: $page->prevVisible()</description>
+	<scope>source.php</scope>
+</snippet>

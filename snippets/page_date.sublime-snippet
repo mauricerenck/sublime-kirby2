@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->date(${2:'format'}, ${3:'fieldname'})()
+]]></content>
+	<tabTrigger>date</tabTrigger>
+	<description>Kirby: $page->date($format = false, $field = 'date')</description>
+	<scope>source.php</scope>
+</snippet>

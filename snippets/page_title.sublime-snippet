@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->title()
+]]></content>
+	<tabTrigger>title</tabTrigger>
+	<description>Kirby: $page->title()</description>
+	<scope>source.php</scope>
+</snippet>

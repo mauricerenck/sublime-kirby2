@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->slug()
+]]></content>
+	<tabTrigger>slug</tabTrigger>
+	<description>Kirby: $page->slug()</description>
+	<scope>source.php</scope>
+</snippet>

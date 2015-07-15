@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->hasNextVisible()
+]]></content>
+	<tabTrigger>hasNextVisible</tabTrigger>
+	<description>Kirby: $page->hasNextVisible()</description>
+	<scope>source.php</scope>
+</snippet>

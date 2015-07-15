@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->isChildOf(${2:\$parent})
+]]></content>
+	<tabTrigger>isChildOf</tabTrigger>
+	<description>Kirby: $page->isChildOf($parent)</description>
+	<scope>source.php</scope>
+</snippet>

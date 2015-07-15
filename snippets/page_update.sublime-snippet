@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:page}->update(${2:\$data_array})
+]]></content>
+	<tabTrigger>update</tabTrigger>
+	<description>Kirby: $page->update($data = array())</description>
+	<scope>source.php</scope>
+</snippet>
