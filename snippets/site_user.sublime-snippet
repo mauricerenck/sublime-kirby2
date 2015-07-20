@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->user()
+]]></content>
+	<tabTrigger>user</tabTrigger>
+	<description>Kirby: $site->user()</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->hasVisibleChildren()
+]]></content>
+	<tabTrigger>hasVisibleChildren</tabTrigger>
+	<description>Kirby: $site->hasVisibleChildren()</description>
+	<scope>source.php</scope>
+</snippet>

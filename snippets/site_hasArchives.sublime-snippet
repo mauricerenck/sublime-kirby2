@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->hasArchives()
+]]></content>
+	<tabTrigger>hasArchives</tabTrigger>
+	<description>Kirby: $site->hasArchives()</description>
+	<scope>source.php</scope>
+</snippet>

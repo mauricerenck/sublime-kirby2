@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->page(${2:'some/sub/page/deep/down'})
+]]></content>
+	<tabTrigger>page</tabTrigger>
+	<description>Kirby: $site->page($uri = null)</description>
+	<scope>source.php</scope>
+</snippet>

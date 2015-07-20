@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->errorPage()
+]]></content>
+	<tabTrigger>errorPage</tabTrigger>
+	<description>Kirby: $site->errorPage()</description>
+	<scope>source.php</scope>
+</snippet>

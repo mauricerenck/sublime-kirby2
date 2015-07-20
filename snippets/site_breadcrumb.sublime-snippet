@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->breadcrumb()
+]]></content>
+	<tabTrigger>breadcrumb</tabTrigger>
+	<description>Kirby: $site->breadcrumb()</description>
+	<scope>source.php</scope>
+</snippet>

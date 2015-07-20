@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:site}->defaultLanguage()
+]]></content>
+	<tabTrigger>defaultLanguage</tabTrigger>
+	<description>Kirby: $site->defaultLanguage()</description>
+	<scope>source.php</scope>
+</snippet>
