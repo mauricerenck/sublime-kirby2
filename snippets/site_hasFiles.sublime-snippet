@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->hasFiles()
+${1:\$site}->hasFiles()
 ]]></content>
 	<tabTrigger>hasFiles</tabTrigger>
 	<description>Kirby: $site->hasFiles()</description>

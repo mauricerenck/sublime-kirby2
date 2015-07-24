@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->children()
+${1:\$page}->children()
 ]]></content>
 	<tabTrigger>children</tabTrigger>
 	<description>Kirby: $page->children()</description>

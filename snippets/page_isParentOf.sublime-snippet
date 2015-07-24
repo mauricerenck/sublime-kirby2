@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isParentOf(${2:\$child})
+${1:\$page}->isParentOf(${2:\$child})
 ]]></content>
 	<tabTrigger>isParentOf</tabTrigger>
 	<description>Kirby: $page->isParentOf($child)</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->languages()
+${1:\$site}->languages()
 ]]></content>
 	<tabTrigger>languages</tabTrigger>
 	<description>Kirby: $site->languages()</description>

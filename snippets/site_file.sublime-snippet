@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->file(${2:'filename'})
+${1:\$site}->file(${2:'filename'})
 ]]></content>
 	<tabTrigger>file</tabTrigger>
 	<description>Kirby: $site->file($filename)</description>

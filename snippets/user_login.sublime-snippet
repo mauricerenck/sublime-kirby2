@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:user}->login(${2:\$password})
+${1:\$user}->login(${2:\$password})
 ]]></content>
 	<tabTrigger>login</tabTrigger>
-	<description>Kirby: $site->user()->login($password)</description>
+	<description>Kirby: $user()->login($password)</description>
 	<scope>source.php</scope>
 </snippet>

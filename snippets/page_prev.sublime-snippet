@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->prev()
+${1:\$page}->prev()
 ]]></content>
 	<tabTrigger>prev</tabTrigger>
 	<description>Kirby: $page->prev()</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isHomePage()
+${1:\$page}->isHomePage()
 ]]></content>
 	<tabTrigger>isHomePage</tabTrigger>
 	<description>Kirby: $page->isHomePage()</description>

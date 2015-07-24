@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->images()
+${1:\$page}->images()
 ]]></content>
 	<tabTrigger>images</tabTrigger>
 	<description>Kirby: $page->images()</description>

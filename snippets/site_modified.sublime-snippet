@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->modified(${2:'d.m.Y H:i'})
+${1:\$site}->modified(${2:'d.m.Y H:i'})
 ]]></content>
 	<tabTrigger>modified</tabTrigger>
 	<description>Kirby: $site->modified($format = false)</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->hasPrevVisible()
+${1:\$page}->hasPrevVisible()
 ]]></content>
 	<tabTrigger>hasPrevVisible</tabTrigger>
 	<description>Kirby: $page->hasPrevVisible()</description>

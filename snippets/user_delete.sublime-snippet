@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:user}->delete()
+${1:\$user}->delete()
 ]]></content>
 	<tabTrigger>delete</tabTrigger>
-	<description>Kirby: $site->user()->delete()</description>
+	<description>Kirby: $user()->delete()</description>
 	<scope>source.php</scope>
 </snippet>

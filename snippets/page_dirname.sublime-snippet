@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->dirname()
+${1:\$page}->dirname()
 ]]></content>
 	<tabTrigger>dirname</tabTrigger>
 	<description>Kirby: $page->dirname()</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->title()
+${1:\$page}->title()
 ]]></content>
 	<tabTrigger>title</tabTrigger>
 	<description>Kirby: $page->title()</description>

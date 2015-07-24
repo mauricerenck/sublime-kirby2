@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->is(${2:\$other})
+${1:\$page}->is(${2:\$other})
 ]]></content>
 	<tabTrigger>is</tabTrigger>
 	<description>Kirby: $page->is($other)</description>

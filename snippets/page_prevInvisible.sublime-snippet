@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->prevInvisible()
+${1:\$page}->prevInvisible()
 ]]></content>
 	<tabTrigger>prevInvisible</tabTrigger>
 	<description>Kirby: $page->prevInvisible()</description>

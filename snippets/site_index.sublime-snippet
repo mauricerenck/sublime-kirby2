@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->index()
+${1:\$site}->index()
 ]]></content>
 	<tabTrigger>index</tabTrigger>
 	<description>Kirby: $site->index()</description>

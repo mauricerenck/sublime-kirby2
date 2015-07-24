@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isWritable()
+${1:\$page}->isWritable()
 ]]></content>
 	<tabTrigger>isWritable</tabTrigger>
 	<description>Kirby: $page->isWritable()</description>

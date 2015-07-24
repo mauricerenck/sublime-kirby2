@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->templateFile()
+${1:\$page}->templateFile()
 ]]></content>
 	<tabTrigger>templateFile</tabTrigger>
 	<description>Kirby: $page->templateFile()</description>

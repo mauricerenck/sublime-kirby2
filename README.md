@@ -4,3 +4,5 @@ Just install via Package Control (search for kirby2).
 Work in progress, feel free to add snippets
 
 [View sample GIF](snippetsample.gif)
+
+Follow me on [twitter](https://twitter.com/mauricehh) for updates

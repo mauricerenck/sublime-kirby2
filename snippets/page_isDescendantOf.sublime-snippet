@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isDescendantOf(${2:\$parent})
+${1:\$page}->isDescendantOf(${2:\$parent})
 ]]></content>
 	<tabTrigger>isDescendantOf</tabTrigger>
 	<description>Kirby: $page->isDescendantOf($parent)</description>

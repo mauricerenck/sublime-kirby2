@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->hasAudio()
+${1:\$page}->hasAudio()
 ]]></content>
 	<tabTrigger>hasAudio</tabTrigger>
 	<description>Kirby: $page->hasAudio()</description>

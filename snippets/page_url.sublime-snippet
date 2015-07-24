@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->url()
+${1:\$page}->url()
 ]]></content>
 	<tabTrigger>url</tabTrigger>
 	<description>Kirby: $page->url()</description>

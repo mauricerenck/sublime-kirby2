@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->sort({2:num})
+${1:\$page}->sort({2:num})
 ]]></content>
 	<tabTrigger>sort</tabTrigger>
 	<description>Kirby: $page->sort($num)</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->siblings(${2:self_bool})
+${1:\$page}->siblings(${2:self_bool})
 ]]></content>
 	<tabTrigger>siblings</tabTrigger>
 	<description>Kirby: $page->siblings($self = true)</description>

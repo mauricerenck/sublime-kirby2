@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->breadcrumb()
+${1:\$site}->breadcrumb()
 ]]></content>
 	<tabTrigger>breadcrumb</tabTrigger>
 	<description>Kirby: $site->breadcrumb()</description>

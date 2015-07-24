@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:user}->isCurrent()
+${1:\$user}->isCurrent()
 ]]></content>
 	<tabTrigger>isCurrent</tabTrigger>
-	<description>Kirby: $site->user('name')->isCurrent()</description>
+	<description>Kirby: $user('name')->isCurrent()</description>
 	<scope>source.php</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->errorPage()
+${1:\$site}->errorPage()
 ]]></content>
 	<tabTrigger>errorPage</tabTrigger>
 	<description>Kirby: $site->errorPage()</description>

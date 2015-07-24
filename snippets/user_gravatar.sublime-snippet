@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:user}->gravatar(${2:256})
+${1:\$user}->gravatar(${2:256})
 ]]></content>
 	<tabTrigger>gravatar</tabTrigger>
-	<description>Kirby: $site->user()->gravatar($size = 256)</description>
+	<description>Kirby: $user()->gravatar($size = 256)</description>
 	<scope>source.php</scope>
 </snippet>

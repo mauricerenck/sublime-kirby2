@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->uid()
+${1:\$page}->uid()
 ]]></content>
 	<tabTrigger>uid</tabTrigger>
 	<description>Kirby: $page->uid()</description>

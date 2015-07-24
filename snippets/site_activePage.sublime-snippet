@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->activePage()
+${1:\$site}->activePage()
 ]]></content>
 	<tabTrigger>activePage</tabTrigger>
 	<description>Kirby: $site->activePage()</description>

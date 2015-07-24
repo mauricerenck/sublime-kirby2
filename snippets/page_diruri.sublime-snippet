@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->diruri()
+${1:\$page}->diruri()
 ]]></content>
 	<tabTrigger>diruri</tabTrigger>
 	<description>Kirby: $page->diruri()</description>

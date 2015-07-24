@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:user}->firstName()
+${1:\$user}->firstName()
 ]]></content>
 	<tabTrigger>firstName</tabTrigger>
-	<description>Kirby: $site->user()->firstName()</description>
+	<description>Kirby: $user()->firstName()</description>
 	<scope>source.php</scope>
 </snippet>

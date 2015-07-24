@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isOpen()
+${1:\$page}->isOpen()
 ]]></content>
 	<tabTrigger>isOpen</tabTrigger>
 	<description>Kirby: $page->isOpen()</description>

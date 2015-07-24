@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->depth()
+${1:\$page}->depth()
 ]]></content>
 	<tabTrigger>depth</tabTrigger>
 	<description>Kirby: $page->depth()</description>

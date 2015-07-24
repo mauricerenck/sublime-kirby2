@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->find(${2:'uri'})
+${1:\$page}->find(${2:'uri'})
 ]]></content>
 	<tabTrigger>find</tabTrigger>
 	<description>Kirby: $page->find($uri)</description>

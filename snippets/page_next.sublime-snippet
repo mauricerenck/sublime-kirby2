@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->next()
+${1:\$page}->next()
 ]]></content>
 	<tabTrigger>next</tabTrigger>
 	<description>Kirby: $page->next()</description>

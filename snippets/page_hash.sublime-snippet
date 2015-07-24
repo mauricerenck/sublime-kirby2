@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->hash()
+${1:\$page}->hash()
 ]]></content>
 	<tabTrigger>hash</tabTrigger>
 	<description>Kirby: $page->hash()</description>

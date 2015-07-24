@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->user()
+${1:\$site}->user(${2:'kirby'})
 ]]></content>
 	<tabTrigger>user</tabTrigger>
 	<description>Kirby: $site->user()</description>

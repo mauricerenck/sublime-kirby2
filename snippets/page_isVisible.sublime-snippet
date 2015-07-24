@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isVisible()
+${1:\$page}->isVisible()
 ]]></content>
 	<tabTrigger>isVisible</tabTrigger>
 	<description>Kirby: $page->isVisible()</description>

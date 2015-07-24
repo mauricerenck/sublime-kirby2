@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:site}->find()
+${1:\$site}->find()
 ]]></content>
 	<tabTrigger>find</tabTrigger>
 	<description>Kirby: $site->find()</description>

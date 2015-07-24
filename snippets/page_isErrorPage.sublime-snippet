@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:page}->isErrorPage()
+${1:\$page}->isErrorPage()
 ]]></content>
 	<tabTrigger>isErrorPage</tabTrigger>
 	<description>Kirby: $page->isErrorPage()</description>
