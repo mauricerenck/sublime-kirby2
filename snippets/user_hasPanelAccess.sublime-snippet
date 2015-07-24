@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->hasPanelAccess()
+]]></content>
+	<tabTrigger>hasPanelAccess</tabTrigger>
+	<description>Kirby: $site->user()->hasPanelAccess()</description>
+	<scope>source.php</scope>
+</snippet>

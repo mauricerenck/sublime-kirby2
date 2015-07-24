@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->avatar()
+]]></content>
+	<tabTrigger>avatar</tabTrigger>
+	<description>Kirby: $site->user()->avatar()</description>
+	<scope>source.php</scope>
+</snippet>

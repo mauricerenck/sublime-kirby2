@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->is(${2})
+]]></content>
+	<tabTrigger>is</tabTrigger>
+	<description>Kirby: $site->user()->is($someone)</description>
+	<scope>source.php</scope>
+</snippet>

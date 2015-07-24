@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->logout()
+]]></content>
+	<tabTrigger>logout</tabTrigger>
+	<description>Kirby: $site->user()->logout()</description>
+	<scope>source.php</scope>
+</snippet>

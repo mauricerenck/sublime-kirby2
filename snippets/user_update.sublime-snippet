@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->update(array(
+    'email'     => '${2}',
+    'firstName' => '${3}',
+    'lastName'  => '${4}'
+  ))
+]]></content>
+	<tabTrigger>update</tabTrigger>
+	<description>Kirby: $site->user()->update($array)</description>
+	<scope>source.php</scope>
+</snippet>

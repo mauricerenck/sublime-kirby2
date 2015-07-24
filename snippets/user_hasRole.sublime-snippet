@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:user}->hasRole(${2:'editor'})
+]]></content>
+	<tabTrigger>hasRole</tabTrigger>
+	<description>Kirby: $site->user()->hasRole($role)</description>
+	<scope>source.php</scope>
+</snippet>
