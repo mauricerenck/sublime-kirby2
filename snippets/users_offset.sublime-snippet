@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->offset(${2})
+]]></content>
+	<tabTrigger>offset</tabTrigger>
+	<description>Kirby: $users()->offset($offset)</description>
+	<scope>source.php</scope>
+</snippet>

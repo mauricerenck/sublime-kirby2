@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->first()
+]]></content>
+	<tabTrigger>first</tabTrigger>
+	<description>Kirby: $users()->first()</description>
+	<scope>source.php</scope>
+</snippet>

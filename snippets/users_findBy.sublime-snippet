@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->findBy(${2}, ${3})
+]]></content>
+	<tabTrigger>findBy</tabTrigger>
+	<description>Kirby: $users()->findBy($field, $value)</description>
+	<scope>source.php</scope>
+</snippet>

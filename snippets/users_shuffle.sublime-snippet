@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->shuffle()
+]]></content>
+	<tabTrigger>shuffle</tabTrigger>
+	<description>Kirby: $users()->shuffle()</description>
+	<scope>source.php</scope>
+</snippet>

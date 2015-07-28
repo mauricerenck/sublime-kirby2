@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->not()
+]]></content>
+	<tabTrigger>not</tabTrigger>
+	<description>Kirby: $users()->not()</description>
+	<scope>source.php</scope>
+</snippet>

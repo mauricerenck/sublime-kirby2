@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->map(${2})
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<description>Kirby: $users()->map($callback)</description>
+	<scope>source.php</scope>
+</snippet>

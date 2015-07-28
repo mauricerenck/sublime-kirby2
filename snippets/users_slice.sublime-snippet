@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->slice(${2:\$offset}, ${3:\$limit})
+]]></content>
+	<tabTrigger>slice</tabTrigger>
+	<description>Kirby: $users()->slice($offset = null, $limit = null)</description>
+	<scope>source.php</scope>
+</snippet>

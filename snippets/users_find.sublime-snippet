@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$users}->find(${2})
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<description>Kirby: $users()->find($username)</description>
+	<scope>source.php</scope>
+</snippet>
