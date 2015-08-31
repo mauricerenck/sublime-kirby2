@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$language}->url()
+]]></content>
+	<tabTrigger>url</tabTrigger>
+	<description>Kirby: $language()->url()</description>
+	<scope>source.php</scope>
+</snippet>
