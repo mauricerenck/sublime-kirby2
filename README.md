@@ -11,5 +11,6 @@ Follow me on [twitter](https://twitter.com/mauricehh) for updates
 
 **2015-08-31**
 - Added all $language-methods
+
 **2015-07-28**
 - Added all $users-methods
