@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}filter(${2:\$callback})
+]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<description>Kirby: $files->filter($callback)</description>
+	<scope>source.php</scope>
+</snippet>

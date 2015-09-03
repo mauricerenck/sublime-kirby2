@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}pluck(${2:\$field},${3:,\$split},${4:,\$unique})
+]]></content>
+	<tabTrigger>pluck</tabTrigger>
+	<description>Kirby: $files->pluck($field, $split = null, $unique = false)</description>
+	<scope>source.php</scope>
+</snippet>

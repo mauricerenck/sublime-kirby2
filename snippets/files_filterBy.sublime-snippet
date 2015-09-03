@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}filterBy(${2:type,}${3:method,}${4:needle})
+]]></content>
+	<tabTrigger>filterBy</tabTrigger>
+	<description>Kirby: $files->filterBy()</description>
+	<scope>source.php</scope>
+</snippet>

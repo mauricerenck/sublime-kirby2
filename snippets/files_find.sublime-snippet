@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}find(${2})
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<description>Kirby: $files->find()</description>
+	<scope>source.php</scope>
+</snippet>

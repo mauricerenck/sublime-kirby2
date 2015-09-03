@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}sortBy(${2:\$field}${3:,\$direction}${4:,\$method})
+]]></content>
+	<tabTrigger>sortBy</tabTrigger>
+	<description>Kirby: $files->sortBy($field, $direction = 'desc', $method = SORT_REGULAR)</description>
+	<scope>source.php</scope>
+</snippet>

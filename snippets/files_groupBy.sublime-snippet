@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}groupBy(${2:\$field},${3:true})
+]]></content>
+	<tabTrigger>groupBy</tabTrigger>
+	<description>Kirby: $files->groupBy($field, $caseInsensitive = true)</description>
+	<scope>source.php</scope>
+</snippet>

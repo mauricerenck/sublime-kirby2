@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}findBy(${2:field},${3:value})
+]]></content>
+	<tabTrigger>findBy</tabTrigger>
+	<description>Kirby: $files->findBy($field, $value)</description>
+	<scope>source.php</scope>
+</snippet>

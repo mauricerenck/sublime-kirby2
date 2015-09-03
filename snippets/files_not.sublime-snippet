@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}not(${2:\$file})
+]]></content>
+	<tabTrigger>not</tabTrigger>
+	<description>Kirby: $files->not($file)</description>
+	<scope>source.php</scope>
+</snippet>

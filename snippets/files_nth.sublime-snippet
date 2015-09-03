@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}nth(${2})
+]]></content>
+	<tabTrigger>nth</tabTrigger>
+	<description>Kirby: $files->nth($n)</description>
+	<scope>source.php</scope>
+</snippet>

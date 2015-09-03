@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$files->}toArray(${2:\$callback})
+]]></content>
+	<tabTrigger>toArray</tabTrigger>
+	<description>Kirby: $files->toArray($callback = null)</description>
+	<scope>source.php</scope>
+</snippet>
