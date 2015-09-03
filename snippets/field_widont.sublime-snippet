@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}widont()
+]]></content>
+	<tabTrigger>widont</tabTrigger>
+	<description>Kirby: $field->widont()</description>
+	<scope>source.php</scope>
+</snippet>

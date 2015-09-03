@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}excerpt(${2:\$length}, ${3:\$mode})
+]]></content>
+	<tabTrigger>excerpt</tabTrigger>
+	<description>Kirby: $field->excerpt($length = 140, $mode = 'chars')</description>
+	<scope>source.php</scope>
+</snippet>

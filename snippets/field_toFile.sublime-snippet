@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}toFile()
+]]></content>
+	<tabTrigger>toFile</tabTrigger>
+	<description>Kirby: $field->toFile()</description>
+	<scope>source.php</scope>
+</snippet>

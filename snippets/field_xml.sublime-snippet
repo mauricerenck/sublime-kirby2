@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}xml()
+]]></content>
+	<tabTrigger>xml</tabTrigger>
+	<description>Kirby: $field->xml()</description>
+	<scope>source.php</scope>
+</snippet>

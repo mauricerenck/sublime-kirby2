@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}int()
+]]></content>
+	<tabTrigger>int</tabTrigger>
+	<description>Kirby: $field->int()</description>
+	<scope>source.php</scope>
+</snippet>

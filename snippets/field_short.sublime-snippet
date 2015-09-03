@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}short(${2:\$length})
+]]></content>
+	<tabTrigger>short</tabTrigger>
+	<description>Kirby: $field->short($length)</description>
+	<scope>source.php</scope>
+</snippet>

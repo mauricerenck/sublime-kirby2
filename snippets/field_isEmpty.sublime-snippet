@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}isEmpty()
+]]></content>
+	<tabTrigger>isEmpty</tabTrigger>
+	<description>Kirby: $field->isEmpty()</description>
+	<scope>source.php</scope>
+</snippet>

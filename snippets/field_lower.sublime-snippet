@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}lower()
+]]></content>
+	<tabTrigger>lower</tabTrigger>
+	<description>Kirby: $field->lower()</description>
+	<scope>source.php</scope>
+</snippet>

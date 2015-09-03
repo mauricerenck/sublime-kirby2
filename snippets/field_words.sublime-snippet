@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}words()
+]]></content>
+	<tabTrigger>words</tabTrigger>
+	<description>Kirby: $field->words()</description>
+	<scope>source.php</scope>
+</snippet>

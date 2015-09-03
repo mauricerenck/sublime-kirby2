@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}isFalse()
+]]></content>
+	<tabTrigger>isFalse</tabTrigger>
+	<description>Kirby: $field->isFalse()</description>
+	<scope>source.php</scope>
+</snippet>

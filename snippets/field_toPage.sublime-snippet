@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$field->}toPage()
+]]></content>
+	<tabTrigger>toPage</tabTrigger>
+	<description>Kirby: $field->toPage()</description>
+	<scope>source.php</scope>
+</snippet>
