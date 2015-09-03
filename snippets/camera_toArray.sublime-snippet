@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$camera->}toArray()
+]]></content>
+	<tabTrigger>toArray</tabTrigger>
+	<description>Kirby: $camera->toArray()</description>
+	<scope>source.php</scope>
+</snippet>

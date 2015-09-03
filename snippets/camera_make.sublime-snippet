@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$exif->}${2:camera()->}make()
+]]></content>
+	<tabTrigger>make</tabTrigger>
+	<description>Kirby: $camera->make()</description>
+	<scope>source.php</scope>
+</snippet>
