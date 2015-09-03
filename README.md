@@ -10,7 +10,7 @@ Follow me on [twitter](https://twitter.com/mauricehh) for updates
 
 ## Changelog
 
-**201-09-03**
+**2015-09-03**
 - Added file methods
 - Added field methods
 - Added exif methods
