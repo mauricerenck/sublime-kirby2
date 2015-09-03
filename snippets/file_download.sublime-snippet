@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}download()
+]]></content>
+	<tabTrigger>download</tabTrigger>
+	<description>Kirby: $file->download()</description>
+	<scope>source.php</scope>
+</snippet>

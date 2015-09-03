@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}rename(${2:\$to})
+]]></content>
+	<tabTrigger>rename</tabTrigger>
+	<description>Kirby: $file->rename($to)</description>
+	<scope>source.php</scope>
+</snippet>

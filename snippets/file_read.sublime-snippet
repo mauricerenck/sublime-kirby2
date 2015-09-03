@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}read()
+]]></content>
+	<tabTrigger>read</tabTrigger>
+	<description>Kirby: $file->read()</description>
+	<scope>source.php</scope>
+</snippet>

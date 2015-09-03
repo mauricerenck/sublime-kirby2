@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}siblings()
+]]></content>
+	<tabTrigger>siblings</tabTrigger>
+	<description>Kirby: $file->siblings()</description>
+	<scope>source.php</scope>
+</snippet>

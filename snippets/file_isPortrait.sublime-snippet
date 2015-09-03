@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}isPortrait()
+]]></content>
+	<tabTrigger>isPortrait</tabTrigger>
+	<description>Kirby: $file->isPortrait()</description>
+	<scope>source.php</scope>
+</snippet>

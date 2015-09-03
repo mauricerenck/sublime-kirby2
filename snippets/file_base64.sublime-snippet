@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}base64()
+]]></content>
+	<tabTrigger>base64</tabTrigger>
+	<description>Kirby: $file->base64()</description>
+	<scope>source.php</scope>
+</snippet>

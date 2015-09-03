@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}ratio()
+]]></content>
+	<tabTrigger>ratio</tabTrigger>
+	<description>Kirby: $file->ratio()</description>
+	<scope>source.php</scope>
+</snippet>

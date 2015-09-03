@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}dimensions()
+]]></content>
+	<tabTrigger>dimensions</tabTrigger>
+	<description>Kirby: $file->dimensions()</description>
+	<scope>source.php</scope>
+</snippet>

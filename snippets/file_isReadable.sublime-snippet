@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}isReadable()
+]]></content>
+	<tabTrigger>isReadable</tabTrigger>
+	<description>Kirby: $file->isReadable()</description>
+	<scope>source.php</scope>
+</snippet>

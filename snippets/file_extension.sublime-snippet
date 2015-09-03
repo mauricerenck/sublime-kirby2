@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}extension()
+]]></content>
+	<tabTrigger>extension</tabTrigger>
+	<description>Kirby: $file->extension()</description>
+	<scope>source.php</scope>
+</snippet>

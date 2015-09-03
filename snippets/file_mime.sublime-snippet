@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}mime()
+]]></content>
+	<tabTrigger>mime</tabTrigger>
+	<description>Kirby: $file->mime()</description>
+	<scope>source.php</scope>
+</snippet>

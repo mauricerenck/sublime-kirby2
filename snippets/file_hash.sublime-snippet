@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}hash()
+]]></content>
+	<tabTrigger>hash</tabTrigger>
+	<description>Kirby: $file->hash()</description>
+	<scope>source.php</scope>
+</snippet>

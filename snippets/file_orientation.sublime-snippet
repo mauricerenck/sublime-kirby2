@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}orientation()
+]]></content>
+	<tabTrigger>orientation</tabTrigger>
+	<description>Kirby: $file->orientation()</description>
+	<scope>source.php</scope>
+</snippet>

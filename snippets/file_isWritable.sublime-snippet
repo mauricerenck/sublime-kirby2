@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}isWritable()
+]]></content>
+	<tabTrigger>isWritable</tabTrigger>
+	<description>Kirby: $file->isWritable()</description>
+	<scope>source.php</scope>
+</snippet>

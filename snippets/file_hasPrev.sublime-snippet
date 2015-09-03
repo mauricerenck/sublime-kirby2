@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}hasPrev()
+]]></content>
+	<tabTrigger>hasPrev</tabTrigger>
+	<description>Kirby: $file->hasPrev()</description>
+	<scope>source.php</scope>
+</snippet>

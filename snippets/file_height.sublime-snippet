@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}height()
+]]></content>
+	<tabTrigger>height</tabTrigger>
+	<description>Kirby: $file->height()</description>
+	<scope>source.php</scope>
+</snippet>

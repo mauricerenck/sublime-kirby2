@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$file->}dataUri()
+]]></content>
+	<tabTrigger>dataUri</tabTrigger>
+	<description>Kirby: $file->dataUri()</description>
+	<scope>source.php</scope>
+</snippet>
