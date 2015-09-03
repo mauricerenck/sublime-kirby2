@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+kirbytext(${1:\$text});
+]]></content>
+	<tabTrigger>kirbytext</tabTrigger>
+	<description>Kirby: kirbytext($text)</description>
+	<scope>source.php</scope>
+</snippet>

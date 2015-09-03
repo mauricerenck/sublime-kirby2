@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+url(${1:\$path});
+]]></content>
+	<tabTrigger>url</tabTrigger>
+	<description>Kirby: url($path = '/')</description>
+	<scope>source.php</scope>
+</snippet>

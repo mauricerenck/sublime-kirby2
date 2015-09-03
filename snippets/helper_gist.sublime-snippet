@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+gist(${1:\$url});
+]]></content>
+	<tabTrigger>gist</tabTrigger>
+	<description>Kirby: gist($url)</description>
+	<scope>source.php</scope>
+</snippet>

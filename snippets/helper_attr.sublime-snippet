@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+attr(${1:array(
+${2:'name'} => ${3:'value'} 
+)});
+]]></content>
+	<tabTrigger>attr</tabTrigger>
+	<description>Kirby: attr($name, $value = null)</description>
+	<scope>source.php</scope>
+</snippet>

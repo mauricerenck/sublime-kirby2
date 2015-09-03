@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+l(${1:\$key});
+]]></content>
+	<tabTrigger>l</tabTrigger>
+	<description>Kirby: l($key)</description>
+	<scope>source.php</scope>
+</snippet>

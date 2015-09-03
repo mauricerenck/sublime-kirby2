@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+yaml(${1:\$string});
+]]></content>
+	<tabTrigger>yaml</tabTrigger>
+	<description>Kirby: yaml($string)</description>
+	<scope>source.php</scope>
+</snippet>

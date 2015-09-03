@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+js(${1:\$path}${2:, \$async});
+]]></content>
+	<tabTrigger>js</tabTrigger>
+	<description>Kirby: js($path, $async = false)</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+xml(${1:\$text});
+]]></content>
+	<tabTrigger>xml</tabTrigger>
+	<description>Kirby: xml($text)</description>
+	<scope>source.php</scope>
+</snippet>

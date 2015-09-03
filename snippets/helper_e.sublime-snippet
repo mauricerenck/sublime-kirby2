@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+e(${1:\$condition}${2:,'cond is successfull'}${3:,'cond failed'});
+]]></content>
+	<tabTrigger>e</tabTrigger>
+	<description>Kirby: e($condition, $a, $b)</description>
+	<scope>source.php</scope>
+</snippet>

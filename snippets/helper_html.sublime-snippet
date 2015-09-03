@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+html(${1:\$text}${2:, true});
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<description>Kirby: html($text, $keepTags = true)</description>
+	<scope>source.php</scope>
+</snippet>

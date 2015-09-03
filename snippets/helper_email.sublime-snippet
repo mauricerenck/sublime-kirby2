@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+email(${1:array(
+	${2:'to'}      => ${3:'bastian@getkirby.com'},
+	${4:'from'}    => ${5:'my@email.com'},
+	${6:'subject'} => ${7:'Sending emails with Kirby is easy'},
+	${8:'body'}    => ${9:'Hey! This was really easy!'}
+)});
+]]></content>
+	<tabTrigger>email</tabTrigger>
+	<description>Kirby: email($params)</description>
+	<scope>source.php</scope>
+</snippet>

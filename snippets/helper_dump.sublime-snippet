@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dump(${1:\$var});
+]]></content>
+	<tabTrigger>dump</tabTrigger>
+	<description>Kirby: dump($var)</description>
+	<scope>source.php</scope>
+</snippet>

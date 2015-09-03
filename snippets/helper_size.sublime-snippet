@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+size(${1:\$string});
+]]></content>
+	<tabTrigger>size</tabTrigger>
+	<description>Kirby: size($input)</description>
+	<scope>source.php</scope>
+</snippet>

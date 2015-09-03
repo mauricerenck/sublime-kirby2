@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+kirbytag(${1:\$attr});
+]]></content>
+	<tabTrigger>kirbytag</tabTrigger>
+	<description>Kirby: kirbytag($attr)</description>
+	<scope>source.php</scope>
+</snippet>

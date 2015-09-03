@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+get(${1:'q'});
+]]></content>
+	<tabTrigger>get</tabTrigger>
+	<description>Kirby: get($key)</description>
+	<scope>source.php</scope>
+</snippet>

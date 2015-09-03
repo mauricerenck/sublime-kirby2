@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+param(${1:\$key});
+]]></content>
+	<tabTrigger>param</tabTrigger>
+	<description>Kirby: param($key)</description>
+	<scope>source.php</scope>
+</snippet>
