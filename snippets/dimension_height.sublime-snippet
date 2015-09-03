@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$image->}height()
+]]></content>
+	<tabTrigger>height</tabTrigger>
+	<description>Kirby: $dimension->height()</description>
+	<scope>source.php</scope>
+</snippet>

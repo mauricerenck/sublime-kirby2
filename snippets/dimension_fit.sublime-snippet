@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$image->}${2:dimensions()->}fit(${3})
+]]></content>
+	<tabTrigger>fit</tabTrigger>
+	<description>Kirby: $dimension->fit()</description>
+	<scope>source.php</scope>
+</snippet>
