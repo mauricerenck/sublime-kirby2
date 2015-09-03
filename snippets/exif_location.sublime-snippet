@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$image->}location()
+]]></content>
+	<tabTrigger>location</tabTrigger>
+	<description>Kirby: $exif->location()</description>
+	<scope>source.php</scope>
+</snippet>

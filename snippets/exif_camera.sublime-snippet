@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$image->}camera()
+]]></content>
+	<tabTrigger>camera</tabTrigger>
+	<description>Kirby: $exif->camera()</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$image->}${2:exif()->}aperture()
+]]></content>
+	<tabTrigger>aperture</tabTrigger>
+	<description>Kirby: $exif->aperture()</description>
+	<scope>source.php</scope>
+</snippet>
