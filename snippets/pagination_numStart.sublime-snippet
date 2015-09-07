@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}numStart()
+]]></content>
+	<tabTrigger>numStart</tabTrigger>
+	<description>Kirby: $pagination->numStart()</description>
+	<scope>source.php</scope>
+</snippet>

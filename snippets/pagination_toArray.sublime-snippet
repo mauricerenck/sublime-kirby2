@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}toArray()
+]]></content>
+	<tabTrigger>toArray</tabTrigger>
+	<description>Kirby: $pagination->toArray()</description>
+	<scope>source.php</scope>
+</snippet>

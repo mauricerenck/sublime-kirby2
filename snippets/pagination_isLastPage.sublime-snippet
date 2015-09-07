@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}isLastPage()
+]]></content>
+	<tabTrigger>isLastPage</tabTrigger>
+	<description>Kirby: $pagination->isLastPage()</description>
+	<scope>source.php</scope>
+</snippet>

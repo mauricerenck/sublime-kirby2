@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}rangeStart()
+]]></content>
+	<tabTrigger>rangeStart</tabTrigger>
+	<description>Kirby: $pagination->rangeStart()</description>
+	<scope>source.php</scope>
+</snippet>

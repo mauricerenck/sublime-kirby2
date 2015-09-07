@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}hasPages()
+]]></content>
+	<tabTrigger>hasPages</tabTrigger>
+	<description>Kirby: $pagination->hasPages()</description>
+	<scope>source.php</scope>
+</snippet>

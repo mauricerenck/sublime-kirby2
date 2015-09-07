@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pagination->}hasPrevPage()
+]]></content>
+	<tabTrigger>hasPrevPage</tabTrigger>
+	<description>Kirby: $pagination->hasPrevPage()</description>
+	<scope>source.php</scope>
+</snippet>
