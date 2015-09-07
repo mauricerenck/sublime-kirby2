@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:\$users}->toArray(${2})
+${1:\$users}->toArray(${2:function()\{
+	${3}
+\}})
 ]]></content>
 	<tabTrigger>toArray</tabTrigger>
 	<description>Kirby: $users()->toArray($callback = null)</description>

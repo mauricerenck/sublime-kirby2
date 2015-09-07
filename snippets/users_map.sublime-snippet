@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:\$users}->map(${2})
+${1:\$users}->map(${2:function()\{
+	${3}
+\}})
 ]]></content>
 	<tabTrigger>map</tabTrigger>
 	<description>Kirby: $users()->map($callback)</description>
