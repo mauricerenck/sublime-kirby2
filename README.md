@@ -10,18 +10,23 @@ Follow me on [twitter](https://twitter.com/mauricehh) for updates
 
 ## Changelog
 
+**2015-09-07**
+* *Added pages methods
+* *Added pagination methods
+* *Some syntax fixes
+
 **2015-09-03**
-- Added file methods
-- Added field methods
-- Added exif methods
-- Added camera methods
-- Added files methods
-- Added helper
-- Added location methods
-- Added dimensions
+* *Added file methods
+* *Added field methods
+* *Added exif methods
+* *Added camera methods
+* *Added files methods
+* *Added helper
+* *Added location methods
+* *Added dimensions
 
 **2015-08-31**
-- Added all $language-methods
+* *Added all $language-methods
 
 **2015-07-28**
-- Added all $users-methods
+* *Added all $users-methods
