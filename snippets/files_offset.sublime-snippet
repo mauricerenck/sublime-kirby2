@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$files->}offset(${2})
+${1:\$files->}offset(${2:\$offset})
 ]]></content>
 	<tabTrigger>offset</tabTrigger>
 	<description>Kirby: $files->offset($offset)</description>

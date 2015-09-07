@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$files->}nth(${2})
+${1:\$files->}nth(${2:\$nth})
 ]]></content>
 	<tabTrigger>nth</tabTrigger>
 	<description>Kirby: $files->nth($n)</description>

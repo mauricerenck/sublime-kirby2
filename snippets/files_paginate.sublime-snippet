@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$files->}paginate(${2:5}${3:,\$options})
+${1:\$files->}paginate(${2:\$limit}${3:, \$options})
 ]]></content>
 	<tabTrigger>paginate</tabTrigger>
 	<description>Kirby: $files->paginate($limit, $options = array())</description>

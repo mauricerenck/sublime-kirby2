@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$page}->search(${2:\$query}, ${3:\$params_array})
+${1:\$page}->search(${2:\$query}${3:, \$params})
 ]]></content>
 	<tabTrigger>search</tabTrigger>
 	<description>Kirby: $page->search($query, $params = array())</description>

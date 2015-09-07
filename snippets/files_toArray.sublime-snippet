@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:\$files->}toArray(${2:\$callback})
+${1:\$files->}toArray(${2:function()\{
+	${3}
+\}})
 ]]></content>
 	<tabTrigger>toArray</tabTrigger>
 	<description>Kirby: $files->toArray($callback = null)</description>
