@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}first()
+]]></content>
+	<tabTrigger>first</tabTrigger>
+	<description>Kirby: $pages->first()</description>
+	<scope>source.php</scope>
+</snippet>

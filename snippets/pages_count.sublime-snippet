@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}count()
+]]></content>
+	<tabTrigger>count</tabTrigger>
+	<description>Kirby: $pages->count()</description>
+	<scope>source.php</scope>
+</snippet>

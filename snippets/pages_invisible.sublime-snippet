@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}invisible()
+]]></content>
+	<tabTrigger>invisible</tabTrigger>
+	<description>Kirby: $pages->invisible()</description>
+	<scope>source.php</scope>
+</snippet>

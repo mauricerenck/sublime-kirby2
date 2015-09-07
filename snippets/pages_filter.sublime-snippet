@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}filter(${2:function() \{
+	${3}
+\})}
+]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<description>Kirby: $pages->filter($callback)</description>
+	<scope>source.php</scope>
+</snippet>

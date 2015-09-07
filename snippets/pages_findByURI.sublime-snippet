@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}findByURI(${1})
+]]></content>
+	<tabTrigger>findByURI</tabTrigger>
+	<description>Kirby: $pages->findByURI()</description>
+	<scope>source.php</scope>
+</snippet>

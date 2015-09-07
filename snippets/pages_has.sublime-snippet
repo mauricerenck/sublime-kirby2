@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}has(${2})
+]]></content>
+	<tabTrigger>has</tabTrigger>
+	<description>Kirby: $pages->has($page)</description>
+	<scope>source.php</scope>
+</snippet>
