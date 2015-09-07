@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}toArray(${2:function()\{
+	${3}
+\}})
+]]></content>
+	<tabTrigger>toArray</tabTrigger>
+	<description>Kirby: $pages->toArray($callback = null)</description>
+	<scope>source.php</scope>
+</snippet>

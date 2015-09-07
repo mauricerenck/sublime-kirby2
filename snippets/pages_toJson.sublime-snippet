@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}toJson()
+]]></content>
+	<tabTrigger>toJson</tabTrigger>
+	<description>Kirby: $pages->toJson()</description>
+	<scope>source.php</scope>
+</snippet>

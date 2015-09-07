@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}paginate(${2:\$limit}${3:, \$options})
+]]></content>
+	<tabTrigger>paginate</tabTrigger>
+	<description>Kirby: $pages->paginate($limit, $options = array())</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}last()
+]]></content>
+	<tabTrigger>last</tabTrigger>
+	<description>Kirby: $pages->last()</description>
+	<scope>source.php</scope>
+</snippet>

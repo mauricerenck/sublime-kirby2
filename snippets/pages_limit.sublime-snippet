@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}limit(${2:\$limit})
+]]></content>
+	<tabTrigger>limit</tabTrigger>
+	<description>Kirby: $pages->limit($limit)</description>
+	<scope>source.php</scope>
+</snippet>

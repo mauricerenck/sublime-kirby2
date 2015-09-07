@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}map(${2:function()\{
+	${3}
+\}})
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<description>Kirby: $pages->map($callback)</description>
+	<scope>source.php</scope>
+</snippet>

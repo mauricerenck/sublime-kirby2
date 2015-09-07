@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}offset(${2:\$offset})
+]]></content>
+	<tabTrigger>offset</tabTrigger>
+	<description>Kirby: $pages->offset($offset)</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$pages->}search(${2:\$query}${3:, \$params})
+]]></content>
+	<tabTrigger>search</tabTrigger>
+	<description>Kirby: $pages->search($query, $params = array())</description>
+	<scope>source.php</scope>
+</snippet>
