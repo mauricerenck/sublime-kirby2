@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:$content(${2:[\$lang]})}->${3:exists()}
+]]></content>
+<tabTrigger>exists</tabTrigger>
+<description>Kirby: $content([$lang])->exists()</description>
+<scope>source.php</scope>
+</snippet>

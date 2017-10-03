@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:get(${3:\$key}, ${4:\$default = null})}
+]]></content>
+<tabTrigger>get</tabTrigger>
+<description>Kirby: $request->get($key, $default = null)</description>
+<scope>source.php</scope>
+</snippet>

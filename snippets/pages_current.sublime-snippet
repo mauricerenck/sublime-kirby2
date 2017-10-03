@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:current()}
+]]></content>
+<tabTrigger>current</tabTrigger>
+<description>Kirby: $pages->current()</description>
+<scope>source.php</scope>
+</snippet>

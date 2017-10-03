@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-multiline(${1:\$text});
-]]></content>
-	<tabTrigger>multiline</tabTrigger>
-	<description>Kirby: multiline($text)</description>
-	<scope>source.php</scope>
-</snippet>

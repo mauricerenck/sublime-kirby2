@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->id()
+<content><![CDATA[
+${1:\$page}->${2:id()}
 ]]></content>
-	<tabTrigger>id</tabTrigger>
-	<description>Kirby: $page->id()</description>
-	<scope>source.php</scope>
+<tabTrigger>id</tabTrigger>
+<description>Kirby: $page->id()</description>
+<scope>source.php</scope>
 </snippet>

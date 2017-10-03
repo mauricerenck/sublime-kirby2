@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:imagesize()}
+]]></content>
+<tabTrigger>imagesize</tabTrigger>
+<description>Kirby: $file->imagesize()</description>
+<scope>source.php</scope>
+</snippet>

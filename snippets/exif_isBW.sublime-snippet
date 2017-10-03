@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}isBW()
+<content><![CDATA[
+${1:\$exif}->${2:isBW()}
 ]]></content>
-	<tabTrigger>isBW</tabTrigger>
-	<description>Kirby: $exif->isBW()</description>
-	<scope>source.php</scope>
+<tabTrigger>isBW</tabTrigger>
+<description>Kirby: $exif->isBW()</description>
+<scope>source.php</scope>
 </snippet>

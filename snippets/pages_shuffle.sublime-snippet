@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}shuffle()
+<content><![CDATA[
+${1:\$pages}->${2:shuffle()}
 ]]></content>
-	<tabTrigger>shuffle</tabTrigger>
-	<description>Kirby: $pages->shuffle()</description>
-	<scope>source.php</scope>
+<tabTrigger>shuffle</tabTrigger>
+<description>Kirby: $pages->shuffle()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:prepend(${3:\$key}, ${4:\$object})}
+]]></content>
+<tabTrigger>prepend</tabTrigger>
+<description>Kirby: $pages->prepend($key, $object)</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:chunk(${3:\$size})}
+]]></content>
+<tabTrigger>chunk</tabTrigger>
+<description>Kirby: $pages->chunk($size)</description>
+<scope>source.php</scope>
+</snippet>

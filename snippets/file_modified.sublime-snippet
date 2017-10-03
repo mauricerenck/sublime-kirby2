@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}modified(${2:\$fformat})
+<content><![CDATA[
+${1:\$file}->${2:modified(${3:\$format = false}, ${4:\$handler = null})}
 ]]></content>
-	<tabTrigger>modified</tabTrigger>
-	<description>Kirby: $file->modified($format = false)</description>
-	<scope>source.php</scope>
+<tabTrigger>modified</tabTrigger>
+<description>Kirby: $file->modified($format = false, $handler = null)</description>
+<scope>source.php</scope>
 </snippet>

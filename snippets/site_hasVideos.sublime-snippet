@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:hasVideos()}
+]]></content>
+<tabTrigger>hasVideos</tabTrigger>
+<description>Kirby: $site->hasVideos()</description>
+<scope>source.php</scope>
+</snippet>

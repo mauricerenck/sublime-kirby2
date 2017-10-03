@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:exists()}
+]]></content>
+<tabTrigger>exists</tabTrigger>
+<description>Kirby: $user->exists()</description>
+<scope>source.php</scope>
+</snippet>

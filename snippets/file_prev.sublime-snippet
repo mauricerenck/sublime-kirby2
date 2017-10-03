@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}prev()
+<content><![CDATA[
+${1:\$file}->${2:prev()}
 ]]></content>
-	<tabTrigger>prev</tabTrigger>
-	<description>Kirby: $file->prev()</description>
-	<scope>source.php</scope>
+<tabTrigger>prev</tabTrigger>
+<description>Kirby: $file->prev()</description>
+<scope>source.php</scope>
 </snippet>

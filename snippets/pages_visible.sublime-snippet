@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}visible()
+<content><![CDATA[
+${1:\$pages}->${2:visible()}
 ]]></content>
-	<tabTrigger>visible</tabTrigger>
-	<description>Kirby: $pages->visible()</description>
-	<scope>source.php</scope>
+<tabTrigger>visible</tabTrigger>
+<description>Kirby: $pages->visible()</description>
+<scope>source.php</scope>
 </snippet>

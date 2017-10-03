@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->filterBy(${2}, ${3})
+<content><![CDATA[
+${1:\$users}->${2:filterBy(${3:\$field}, ${4:\$value})}
 ]]></content>
-	<tabTrigger>filterBy</tabTrigger>
-	<description>Kirby: $users()->filterBy($field, $value)</description>
-	<scope>source.php</scope>
+<tabTrigger>filterBy</tabTrigger>
+<description>Kirby: $users->filterBy($field, $value)</description>
+<scope>source.php</scope>
 </snippet>

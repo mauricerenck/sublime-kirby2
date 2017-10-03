@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$language}->${2:host()}
+]]></content>
+<tabTrigger>host</tabTrigger>
+<description>Kirby: $language->host()</description>
+<scope>source.php</scope>
+</snippet>

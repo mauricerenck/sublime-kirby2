@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:toArray(${3:\$callback = null})}
+]]></content>
+<tabTrigger>toArray</tabTrigger>
+<description>Kirby: $page->toArray($callback = null)</description>
+<scope>source.php</scope>
+</snippet>

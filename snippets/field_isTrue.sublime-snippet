@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}isTrue()
+<content><![CDATA[
+${1:\$field}->${2:isTrue()}
 ]]></content>
-	<tabTrigger>isTrue</tabTrigger>
-	<description>Kirby: $field->isTrue()</description>
-	<scope>source.php</scope>
+<tabTrigger>isTrue</tabTrigger>
+<description>Kirby: $field->isTrue()</description>
+<scope>source.php</scope>
 </snippet>

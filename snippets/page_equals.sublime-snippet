@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:equals(${3:\$other})}
+]]></content>
+<tabTrigger>equals</tabTrigger>
+<description>Kirby: $page->equals($other)</description>
+<scope>source.php</scope>
+</snippet>

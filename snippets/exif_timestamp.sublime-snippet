@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}timestamp()
+<content><![CDATA[
+${1:\$exif}->${2:timestamp()}
 ]]></content>
-	<tabTrigger>timestamp</tabTrigger>
-	<description>Kirby: $exif->timestamp()</description>
-	<scope>source.php</scope>
+<tabTrigger>timestamp</tabTrigger>
+<description>Kirby: $exif->timestamp()</description>
+<scope>source.php</scope>
 </snippet>

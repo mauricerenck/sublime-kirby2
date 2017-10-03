@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}size()
+<content><![CDATA[
+${1:\$file}->${2:size()}
 ]]></content>
-	<tabTrigger>size</tabTrigger>
-	<description>Kirby: $file->size()</description>
-	<scope>source.php</scope>
+<tabTrigger>size</tabTrigger>
+<description>Kirby: $file->size()</description>
+<scope>source.php</scope>
 </snippet>

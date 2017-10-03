@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:bw(${3:\$bw})}
+]]></content>
+<tabTrigger>bw</tabTrigger>
+<description>Kirby: $file->bw($bw)</description>
+<scope>source.php</scope>
+</snippet>

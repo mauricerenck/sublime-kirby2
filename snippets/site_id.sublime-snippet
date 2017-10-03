@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:id()}
+]]></content>
+<tabTrigger>id</tabTrigger>
+<description>Kirby: $site->id()</description>
+<scope>source.php</scope>
+</snippet>

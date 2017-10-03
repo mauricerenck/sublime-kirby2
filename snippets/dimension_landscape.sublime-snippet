@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}landscape()
+<content><![CDATA[
+${1:\$dimension}->${2:landscape()}
 ]]></content>
-	<tabTrigger>landscape</tabTrigger>
-	<description>Kirby: $dimension->landscape()</description>
-	<scope>source.php</scope>
+<tabTrigger>landscape</tabTrigger>
+<description>Kirby: $dimension->landscape()</description>
+<scope>source.php</scope>
 </snippet>

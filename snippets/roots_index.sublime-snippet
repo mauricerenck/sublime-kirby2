@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:index()}
+]]></content>
+<tabTrigger>index</tabTrigger>
+<description>Kirby: $roots->index()</description>
+<scope>source.php</scope>
+</snippet>

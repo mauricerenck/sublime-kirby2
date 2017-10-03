@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}create(${2:\$uid}, ${3:\$template}, ${4:\$data})
+<content><![CDATA[
+${1:\$pages}->${2:create(${3:\$uid}, ${4:\$template}, ${5:\$data = array()})}
 ]]></content>
-	<tabTrigger>create</tabTrigger>
-	<description>Kirby: $pages->create($uid, $template, $data = array())</description>
-	<scope>source.php</scope>
+<tabTrigger>create</tabTrigger>
+<description>Kirby: $pages->create($uid, $template, $data = array())</description>
+<scope>source.php</scope>
 </snippet>

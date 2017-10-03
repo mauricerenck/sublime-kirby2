@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:increment(${3:\$field}, ${4:\$by = 1}, ${5:\$max = null})}
+]]></content>
+<tabTrigger>increment</tabTrigger>
+<description>Kirby: $page->increment($field, $by = 1, $max = null)</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:ssl()}
+]]></content>
+<tabTrigger>ssl</tabTrigger>
+<description>Kirby: $request->ssl()</description>
+<scope>source.php</scope>
+</snippet>

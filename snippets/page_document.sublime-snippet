@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:document(${3:\$filename = false})}
+]]></content>
+<tabTrigger>document</tabTrigger>
+<description>Kirby: $page->document($filename = false)</description>
+<scope>source.php</scope>
+</snippet>

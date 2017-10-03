@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:keyOf(${3:\$needle})}
+]]></content>
+<tabTrigger>keyOf</tabTrigger>
+<description>Kirby: $pages->keyOf($needle)</description>
+<scope>source.php</scope>
+</snippet>

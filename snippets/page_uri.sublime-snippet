@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->uri()
+<content><![CDATA[
+${1:\$page}->${2:uri(${3:[\$lang = null]})}
 ]]></content>
-	<tabTrigger>uri</tabTrigger>
-	<description>Kirby: $page->uri()</description>
-	<scope>source.php</scope>
+<tabTrigger>uri</tabTrigger>
+<description>Kirby: $page->uri([$lang = null])</description>
+<scope>source.php</scope>
 </snippet>

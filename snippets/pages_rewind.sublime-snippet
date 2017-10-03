@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:rewind()}
+]]></content>
+<tabTrigger>rewind</tabTrigger>
+<description>Kirby: $pages->rewind()</description>
+<scope>source.php</scope>
+</snippet>

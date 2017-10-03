@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-excerpt(${1:\$text},${2:140});
-]]></content>
-	<tabTrigger>excerpt</tabTrigger>
-	<description>Kirby: excerpt($text, $length = 140)</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->multilang()
+<content><![CDATA[
+${1:\$site}->${2:multilang()}
 ]]></content>
-	<tabTrigger>multilang</tabTrigger>
-	<description>Kirby: $site->multilang()</description>
-	<scope>source.php</scope>
+<tabTrigger>multilang</tabTrigger>
+<description>Kirby: $site->multilang()</description>
+<scope>source.php</scope>
 </snippet>

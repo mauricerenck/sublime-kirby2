@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$user}->hasRole(${2:'editor'})
+<content><![CDATA[
+${1:\$user}->${2:hasRole(${3:\$role})}
 ]]></content>
-	<tabTrigger>hasRole</tabTrigger>
-	<description>Kirby: $user()->hasRole($role)</description>
-	<scope>source.php</scope>
+<tabTrigger>hasRole</tabTrigger>
+<description>Kirby: $user->hasRole($role)</description>
+<scope>source.php</scope>
 </snippet>

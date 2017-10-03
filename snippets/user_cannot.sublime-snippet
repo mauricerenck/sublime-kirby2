@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:cannot(${3:\$event}, ${4:\$args =})}
+]]></content>
+<tabTrigger>cannot</tabTrigger>
+<description>Kirby: $user->cannot($event, $args = [])</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}last()
+<content><![CDATA[
+${1:\$files}->${2:last()}
 ]]></content>
-	<tabTrigger>last</tabTrigger>
-	<description>Kirby: $files->last()</description>
-	<scope>source.php</scope>
+<tabTrigger>last</tabTrigger>
+<description>Kirby: $files->last()</description>
+<scope>source.php</scope>
 </snippet>

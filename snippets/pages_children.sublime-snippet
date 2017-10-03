@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}children()
+<content><![CDATA[
+${1:\$pages}->${2:children()}
 ]]></content>
-	<tabTrigger>children</tabTrigger>
-	<description>Kirby: $pages->children()</description>
-	<scope>source.php</scope>
+<tabTrigger>children</tabTrigger>
+<description>Kirby: $pages->children()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$camera->}model()
+<content><![CDATA[
+${1:\$camera}->${2:model()}
 ]]></content>
-	<tabTrigger>model</tabTrigger>
-	<description>Kirby: $camera->model()</description>
-	<scope>source.php</scope>
+<tabTrigger>model</tabTrigger>
+<description>Kirby: $camera->model()</description>
+<scope>source.php</scope>
 </snippet>

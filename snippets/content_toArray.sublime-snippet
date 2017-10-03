@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:$content(${2:[\$lang]})}->${3:toArray()}
+]]></content>
+<tabTrigger>toArray</tabTrigger>
+<description>Kirby: $content([$lang])->toArray()</description>
+<scope>source.php</scope>
+</snippet>

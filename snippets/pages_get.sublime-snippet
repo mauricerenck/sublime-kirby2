@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}get(${2:\$uri})
+<content><![CDATA[
+${1:\$pages}->${2:get(${3:\$key}, ${4:\$default = null})}
 ]]></content>
-	<tabTrigger>get</tabTrigger>
-	<description>Kirby: $pages->get($uri)</description>
-	<scope>source.php</scope>
+<tabTrigger>get</tabTrigger>
+<description>Kirby: $pages->get($key, $default = null)</description>
+<scope>source.php</scope>
 </snippet>

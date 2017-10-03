@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}pageUrl(${2:\$page})
+<content><![CDATA[
+${1:\$pagination}->${2:pageUrl(${3:\$page})}
 ]]></content>
-	<tabTrigger>pageUrl</tabTrigger>
-	<description>Kirby: $pagination->pageUrl($page)</description>
-	<scope>source.php</scope>
+<tabTrigger>pageUrl</tabTrigger>
+<description>Kirby: $pagination->pageUrl($page)</description>
+<scope>source.php</scope>
 </snippet>

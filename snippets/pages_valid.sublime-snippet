@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:valid()}
+]]></content>
+<tabTrigger>valid</tabTrigger>
+<description>Kirby: $pages->valid()</description>
+<scope>source.php</scope>
+</snippet>

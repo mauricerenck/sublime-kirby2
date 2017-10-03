@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->dirname()
+<content><![CDATA[
+${1:\$page}->${2:dirname()}
 ]]></content>
-	<tabTrigger>dirname</tabTrigger>
-	<description>Kirby: $page->dirname()</description>
-	<scope>source.php</scope>
+<tabTrigger>dirname</tabTrigger>
+<description>Kirby: $page->dirname()</description>
+<scope>source.php</scope>
 </snippet>

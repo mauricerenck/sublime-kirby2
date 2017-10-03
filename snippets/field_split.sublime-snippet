@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}split(${2:',')
+<content><![CDATA[
+${1:\$field}->${2:split(${3:\$separator = ','})}
 ]]></content>
-	<tabTrigger>split</tabTrigger>
-	<description>Kirby: $field->split($separator = ',')</description>
-	<scope>source.php</scope>
+<tabTrigger>split</tabTrigger>
+<description>Kirby: $field->split($separator = ',')</description>
+<scope>source.php</scope>
 </snippet>

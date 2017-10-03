@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}isSquare()
+<content><![CDATA[
+${1:\$file}->${2:isSquare()}
 ]]></content>
-	<tabTrigger>isSquare</tabTrigger>
-	<description>Kirby: $file->isSquare()</description>
-	<scope>source.php</scope>
+<tabTrigger>isSquare</tabTrigger>
+<description>Kirby: $file->isSquare()</description>
+<scope>source.php</scope>
 </snippet>

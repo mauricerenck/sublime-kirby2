@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}first()
+<content><![CDATA[
+${1:\$files}->${2:first()}
 ]]></content>
-	<tabTrigger>first</tabTrigger>
-	<description>Kirby: $files->first()</description>
-	<scope>source.php</scope>
+<tabTrigger>first</tabTrigger>
+<description>Kirby: $files->first()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:isAdmin()}
+]]></content>
+<tabTrigger>isAdmin</tabTrigger>
+<description>Kirby: $user->isAdmin()</description>
+<scope>source.php</scope>
+</snippet>

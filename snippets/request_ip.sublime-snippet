@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:ip()}
+]]></content>
+<tabTrigger>ip</tabTrigger>
+<description>Kirby: $request->ip()</description>
+<scope>source.php</scope>
+</snippet>

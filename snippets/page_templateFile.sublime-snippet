@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->templateFile()
+<content><![CDATA[
+${1:\$page}->${2:templateFile()}
 ]]></content>
-	<tabTrigger>templateFile</tabTrigger>
-	<description>Kirby: $page->templateFile()</description>
-	<scope>source.php</scope>
+<tabTrigger>templateFile</tabTrigger>
+<description>Kirby: $page->templateFile()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}html()
+<content><![CDATA[
+${1:\$field}->${2:html()}
 ]]></content>
-	<tabTrigger>html</tabTrigger>
-	<description>Kirby: $field->html()</description>
-	<scope>source.php</scope>
+<tabTrigger>html</tabTrigger>
+<description>Kirby: $field->html()</description>
+<scope>source.php</scope>
 </snippet>

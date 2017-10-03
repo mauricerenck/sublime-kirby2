@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$exif->}${2:location()->}toArray()
+<content><![CDATA[
+${1:\$location}->${2:toArray()}
 ]]></content>
-	<tabTrigger>toArray</tabTrigger>
-	<description>Kirby: $location->toArray()</description>
-	<scope>source.php</scope>
+<tabTrigger>toArray</tabTrigger>
+<description>Kirby: $location->toArray()</description>
+<scope>source.php</scope>
 </snippet>

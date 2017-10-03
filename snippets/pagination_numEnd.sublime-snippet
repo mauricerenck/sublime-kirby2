@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}numEnd()
+<content><![CDATA[
+${1:\$pagination}->${2:numEnd()}
 ]]></content>
-	<tabTrigger>numEnd</tabTrigger>
-	<description>Kirby: $pagination->numEnd()</description>
-	<scope>source.php</scope>
+<tabTrigger>numEnd</tabTrigger>
+<description>Kirby: $pagination->numEnd()</description>
+<scope>source.php</scope>
 </snippet>

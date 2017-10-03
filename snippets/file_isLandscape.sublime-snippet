@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}isLandscape()
+<content><![CDATA[
+${1:\$file}->${2:isLandscape()}
 ]]></content>
-	<tabTrigger>isLandscape</tabTrigger>
-	<description>Kirby: $file->isLandscape()</description>
-	<scope>source.php</scope>
+<tabTrigger>isLandscape</tabTrigger>
+<description>Kirby: $file->isLandscape()</description>
+<scope>source.php</scope>
 </snippet>

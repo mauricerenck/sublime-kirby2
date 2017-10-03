@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:can(${3:\$event}, ${4:\$args =})}
+]]></content>
+<tabTrigger>can</tabTrigger>
+<description>Kirby: $user->can($event, $args = [])</description>
+<scope>source.php</scope>
+</snippet>

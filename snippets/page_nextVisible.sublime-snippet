@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->nextVisible()
+<content><![CDATA[
+${1:\$page}->${2:nextVisible(${3:\$sort}, ${4:\$direction})}
 ]]></content>
-	<tabTrigger>nextVisible</tabTrigger>
-	<description>Kirby: $page->nextVisible()</description>
-	<scope>source.php</scope>
+<tabTrigger>nextVisible</tabTrigger>
+<description>Kirby: $page->nextVisible([$sort, $direction])</description>
+<scope>source.php</scope>
 </snippet>

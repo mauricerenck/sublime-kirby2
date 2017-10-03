@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:write(${3:\$content = null}, ${4:\$format = null})}
+]]></content>
+<tabTrigger>write</tabTrigger>
+<description>Kirby: $file->write($content = null, $format = null)</description>
+<scope>source.php</scope>
+</snippet>

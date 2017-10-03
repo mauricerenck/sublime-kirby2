@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}filterBy(${2:\$haystack}${3:, \$method}${4:, \$needle})
+<content><![CDATA[
+${1:\$pages}->${2:filterBy(${3:\$key}, ${4:[\$operator]}, ${5:\$value}, ${6:[\$split]})}
 ]]></content>
-	<tabTrigger>filterBy</tabTrigger>
-	<description>Kirby: $pages->filterBy()</description>
-	<scope>source.php</scope>
+<tabTrigger>filterBy</tabTrigger>
+<description>Kirby: $pages->filterBy($key [, $operator], $value [, $split])</description>
+<scope>source.php</scope>
 </snippet>

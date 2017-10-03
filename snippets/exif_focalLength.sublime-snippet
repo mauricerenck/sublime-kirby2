@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}focalLength()
+<content><![CDATA[
+${1:\$exif}->${2:focalLength()}
 ]]></content>
-	<tabTrigger>focalLength</tabTrigger>
-	<description>Kirby: $exif->focalLength()</description>
-	<scope>source.php</scope>
+<tabTrigger>focalLength</tabTrigger>
+<description>Kirby: $exif->focalLength()</description>
+<scope>source.php</scope>
 </snippet>

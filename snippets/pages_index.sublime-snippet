@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}index()
+<content><![CDATA[
+${1:\$pages}->${2:index()}
 ]]></content>
-	<tabTrigger>index</tabTrigger>
-	<description>Kirby: $pages->index()</description>
-	<scope>source.php</scope>
+<tabTrigger>index</tabTrigger>
+<description>Kirby: $pages->index()</description>
+<scope>source.php</scope>
 </snippet>

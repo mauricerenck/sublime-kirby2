@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}delete()
+<content><![CDATA[
+${1:\$file}->${2:delete()}
 ]]></content>
-	<tabTrigger>delete</tabTrigger>
-	<description>Kirby: $file->delete()</description>
-	<scope>source.php</scope>
+<tabTrigger>delete</tabTrigger>
+<description>Kirby: $file->delete()</description>
+<scope>source.php</scope>
 </snippet>

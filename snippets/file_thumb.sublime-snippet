@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:thumb(${3:\$params})}
+]]></content>
+<tabTrigger>thumb</tabTrigger>
+<description>Kirby: $file->thumb($params)</description>
+<scope>source.php</scope>
+</snippet>

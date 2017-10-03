@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:page}->isDeletable()
+<content><![CDATA[
+${1:\$page}->${2:isDeletable()}
 ]]></content>
-	<tabTrigger>isDeletable</tabTrigger>
-	<description>Kirby: $page->isDeletable()</description>
-	<scope>source.php</scope>
+<tabTrigger>isDeletable</tabTrigger>
+<description>Kirby: $page->isDeletable()</description>
+<scope>source.php</scope>
 </snippet>

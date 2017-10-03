@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}niceSize()
+<content><![CDATA[
+${1:\$file}->${2:niceSize()}
 ]]></content>
-	<tabTrigger>niceSize</tabTrigger>
-	<description>Kirby: $file->niceSize()</description>
-	<scope>source.php</scope>
+<tabTrigger>niceSize</tabTrigger>
+<description>Kirby: $file->niceSize()</description>
+<scope>source.php</scope>
 </snippet>

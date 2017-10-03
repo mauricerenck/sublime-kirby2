@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:is(${3:\$value})}
+]]></content>
+<tabTrigger>is</tabTrigger>
+<description>Kirby: $file->is($value)</description>
+<scope>source.php</scope>
+</snippet>

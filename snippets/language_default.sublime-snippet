@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$language}->default()
+<content><![CDATA[
+${1:\$language}->${2:default()}
 ]]></content>
-	<tabTrigger>default</tabTrigger>
-	<description>Kirby: $language()->default()</description>
-	<scope>source.php</scope>
+<tabTrigger>default</tabTrigger>
+<description>Kirby: $language->default()</description>
+<scope>source.php</scope>
 </snippet>

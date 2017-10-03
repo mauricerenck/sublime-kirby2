@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$field}->${2:exists()}
+]]></content>
+<tabTrigger>exists</tabTrigger>
+<description>Kirby: $field->exists()</description>
+<scope>source.php</scope>
+</snippet>

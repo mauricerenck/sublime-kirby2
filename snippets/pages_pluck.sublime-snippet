@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}pluck(${2:\$field}${3:, \$split}${4:, \$unique})
+<content><![CDATA[
+${1:\$pages}->${2:pluck(${3:\$field}, ${4:\$split = null}, ${5:\$unique = false})}
 ]]></content>
-	<tabTrigger>pluck</tabTrigger>
-	<description>Kirby: $pages->pluck($field, $split = null, $unique = false)</description>
-	<scope>source.php</scope>
+<tabTrigger>pluck</tabTrigger>
+<description>Kirby: $pages->pluck($field, $split = null, $unique = false)</description>
+<scope>source.php</scope>
 </snippet>

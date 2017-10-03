@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}yaml()
+<content><![CDATA[
+${1:\$field}->${2:yaml()}
 ]]></content>
-	<tabTrigger>yaml</tabTrigger>
-	<description>Kirby: $field->yaml()</description>
-	<scope>source.php</scope>
+<tabTrigger>yaml</tabTrigger>
+<description>Kirby: $field->yaml()</description>
+<scope>source.php</scope>
 </snippet>

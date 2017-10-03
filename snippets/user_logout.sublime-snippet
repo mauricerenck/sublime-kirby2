@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$user}->logout()
+<content><![CDATA[
+${1:\$user}->${2:logout()}
 ]]></content>
-	<tabTrigger>logout</tabTrigger>
-	<description>Kirby: $user()->logout()</description>
-	<scope>source.php</scope>
+<tabTrigger>logout</tabTrigger>
+<description>Kirby: $user->logout()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:content()}->${3:has(${4:\$field})}
+]]></content>
+<tabTrigger>has</tabTrigger>
+<description>Kirby: $site->content()-&gt;has($field)</description>
+<scope>source.php</scope>
+</snippet>

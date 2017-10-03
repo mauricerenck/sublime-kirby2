@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:$content(${2:[\$lang]})}->${3:raw()}
+]]></content>
+<tabTrigger>raw</tabTrigger>
+<description>Kirby: $content([$lang])->raw()</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->audio()
+<content><![CDATA[
+${1:\$page}->${2:audio()}
 ]]></content>
-	<tabTrigger>audio</tabTrigger>
-	<description>Kirby: $page->audio()</description>
-	<scope>source.php</scope>
+<tabTrigger>audio</tabTrigger>
+<description>Kirby: $page->audio()</description>
+<scope>source.php</scope>
 </snippet>

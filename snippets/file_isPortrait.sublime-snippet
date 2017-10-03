@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}isPortrait()
+<content><![CDATA[
+${1:\$file}->${2:isPortrait()}
 ]]></content>
-	<tabTrigger>isPortrait</tabTrigger>
-	<description>Kirby: $file->isPortrait()</description>
-	<scope>source.php</scope>
+<tabTrigger>isPortrait</tabTrigger>
+<description>Kirby: $file->isPortrait()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->delete(${2:force_bool})
+<content><![CDATA[
+${1:\$page}->${2:delete(${3:\$force = false})}
 ]]></content>
-	<tabTrigger>delete</tabTrigger>
-	<description>Kirby: $page->delete($force = false)</description>
-	<scope>source.php</scope>
+<tabTrigger>delete</tabTrigger>
+<description>Kirby: $page->delete($force = false)</description>
+<scope>source.php</scope>
 </snippet>

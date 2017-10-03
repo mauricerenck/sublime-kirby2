@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}findBy(${2:\$field}, ${3:\$value})
+<content><![CDATA[
+${1:\$pages}->${2:findBy(${3:\$key}, ${4:\$value})}
 ]]></content>
-	<tabTrigger>findBy</tabTrigger>
-	<description>Kirby: $pages->findBy($field, $value)</description>
-	<scope>source.php</scope>
+<tabTrigger>findBy</tabTrigger>
+<description>Kirby: $pages->findBy($key, $value)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->get(${2})
+<content><![CDATA[
+${1:\$users}->${2:get(${3:\$username})}
 ]]></content>
-	<tabTrigger>get</tabTrigger>
-	<description>Kirby: $users()->get($username)</description>
-	<scope>source.php</scope>
+<tabTrigger>get</tabTrigger>
+<description>Kirby: $users->get($username)</description>
+<scope>source.php</scope>
 </snippet>

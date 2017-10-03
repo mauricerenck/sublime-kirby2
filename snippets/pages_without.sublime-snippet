@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:without(${3:\$args})}
+]]></content>
+<tabTrigger>without</tabTrigger>
+<description>Kirby: $pages->without($args)</description>
+<scope>source.php</scope>
+</snippet>

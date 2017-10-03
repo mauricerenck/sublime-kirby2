@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:referer()}
+]]></content>
+<tabTrigger>referer</tabTrigger>
+<description>Kirby: $request->referer()</description>
+<scope>source.php</scope>
+</snippet>

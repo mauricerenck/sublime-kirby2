@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}findByURI(${1})
+<content><![CDATA[
+${1:\$pages}->${2:findByURI(${3:\$uri})}
 ]]></content>
-	<tabTrigger>findByURI</tabTrigger>
-	<description>Kirby: $pages->findByURI()</description>
-	<scope>source.php</scope>
+<tabTrigger>findByURI</tabTrigger>
+<description>Kirby: $pages->findByURI($uri)</description>
+<scope>source.php</scope>
 </snippet>

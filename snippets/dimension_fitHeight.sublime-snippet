@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:dimensions()->}fitHeight(${3})
+<content><![CDATA[
+${1:\$dimension}->${2:fitHeight()}
 ]]></content>
-	<tabTrigger>fitHeight</tabTrigger>
-	<description>Kirby: $dimension->fitHeight()</description>
-	<scope>source.php</scope>
+<tabTrigger>fitHeight</tabTrigger>
+<description>Kirby: $dimension->fitHeight()</description>
+<scope>source.php</scope>
 </snippet>

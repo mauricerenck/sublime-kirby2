@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:cache()}
+]]></content>
+<tabTrigger>cache</tabTrigger>
+<description>Kirby: $roots->cache()</description>
+<scope>source.php</scope>
+</snippet>

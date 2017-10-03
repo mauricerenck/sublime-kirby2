@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-twitter(${1:\$username}${2:, \$text});
-]]></content>
-	<tabTrigger>twitter</tabTrigger>
-	<description>Kirby: twitter($username, $text = '')</description>
-	<scope>source.php</scope>
-</snippet>

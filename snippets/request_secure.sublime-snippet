@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:secure()}
+]]></content>
+<tabTrigger>secure</tabTrigger>
+<description>Kirby: $request->secure()</description>
+<scope>source.php</scope>
+</snippet>

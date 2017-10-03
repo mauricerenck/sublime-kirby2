@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:group(${3:\$callback})}
+]]></content>
+<tabTrigger>group</tabTrigger>
+<description>Kirby: $pages->group($callback)</description>
+<scope>source.php</scope>
+</snippet>

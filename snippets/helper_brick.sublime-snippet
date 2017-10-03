@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-brick(${1:\$tag}${2:,false}${3:,\$attr_array});
-]]></content>
-	<tabTrigger>brick</tabTrigger>
-	<description>Kirby: brick($tag, $html = false, $attr = array())</description>
-	<scope>source.php</scope>
-</snippet>

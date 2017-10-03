@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:isWebsafe()}
+]]></content>
+<tabTrigger>isWebsafe</tabTrigger>
+<description>Kirby: $file->isWebsafe()</description>
+<scope>source.php</scope>
+</snippet>

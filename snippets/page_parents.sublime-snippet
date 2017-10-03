@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->parents()
+<content><![CDATA[
+${1:\$page}->${2:parents()}
 ]]></content>
-	<tabTrigger>parents</tabTrigger>
-	<description>Kirby: $page->parents()</description>
-	<scope>source.php</scope>
+<tabTrigger>parents</tabTrigger>
+<description>Kirby: $page->parents()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:textfile(${3:\$template = null}, ${4:[\$lang = null]})}
+]]></content>
+<tabTrigger>textfile</tabTrigger>
+<description>Kirby: $page->textfile($template = null [, $lang = null])</description>
+<scope>source.php</scope>
+</snippet>

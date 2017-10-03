@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}firstPageUrl()
+<content><![CDATA[
+${1:\$pagination}->${2:firstPageUrl()}
 ]]></content>
-	<tabTrigger>firstPageUrl</tabTrigger>
-	<description>Kirby: $pagination->firstPageUrl()</description>
-	<scope>source.php</scope>
+<tabTrigger>firstPageUrl</tabTrigger>
+<description>Kirby: $pagination->firstPageUrl()</description>
+<scope>source.php</scope>
 </snippet>

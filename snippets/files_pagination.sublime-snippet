@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$files}->${2:pagination()}
+]]></content>
+<tabTrigger>pagination</tabTrigger>
+<description>Kirby: $files->pagination()</description>
+<scope>source.php</scope>
+</snippet>

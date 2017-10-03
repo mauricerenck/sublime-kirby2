@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:reset()}
+]]></content>
+<tabTrigger>reset</tabTrigger>
+<description>Kirby: $site->reset()</description>
+<scope>source.php</scope>
+</snippet>

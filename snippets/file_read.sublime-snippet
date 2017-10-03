@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}read()
+<content><![CDATA[
+${1:\$file}->${2:read(${3:\$format = null})}
 ]]></content>
-	<tabTrigger>read</tabTrigger>
-	<description>Kirby: $file->read()</description>
-	<scope>source.php</scope>
+<tabTrigger>read</tabTrigger>
+<description>Kirby: $file->read($format = null)</description>
+<scope>source.php</scope>
 </snippet>

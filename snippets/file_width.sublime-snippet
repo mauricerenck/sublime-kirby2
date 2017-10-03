@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}width()
+<content><![CDATA[
+${1:\$file}->${2:width()}
 ]]></content>
-	<tabTrigger>width</tabTrigger>
-	<description>Kirby: $file->width()</description>
-	<scope>source.php</scope>
+<tabTrigger>width</tabTrigger>
+<description>Kirby: $file->width()</description>
+<scope>source.php</scope>
 </snippet>

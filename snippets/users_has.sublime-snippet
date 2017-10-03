@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$users}->${2:has(${3:\$user})}
+]]></content>
+<tabTrigger>has</tabTrigger>
+<description>Kirby: $users->has($user)</description>
+<scope>source.php</scope>
+</snippet>

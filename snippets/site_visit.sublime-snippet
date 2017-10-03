@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:visit(${3:\$uri = ''}, ${4:[\$lang]})}
+]]></content>
+<tabTrigger>visit</tabTrigger>
+<description>Kirby: $site->visit($uri = '' [, $lang])</description>
+<scope>source.php</scope>
+</snippet>

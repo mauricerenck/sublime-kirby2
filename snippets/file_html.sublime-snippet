@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:html(${3:\$attr = array()})}
+]]></content>
+<tabTrigger>html</tabTrigger>
+<description>Kirby: $file->html($attr = array())</description>
+<scope>source.php</scope>
+</snippet>

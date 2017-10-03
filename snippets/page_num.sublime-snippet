@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->num()
+<content><![CDATA[
+${1:\$page}->${2:num()}
 ]]></content>
-	<tabTrigger>num</tabTrigger>
-	<description>Kirby: $page->num()</description>
-	<scope>source.php</scope>
+<tabTrigger>num</tabTrigger>
+<description>Kirby: $page->num()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hasNextVisible()
+<content><![CDATA[
+${1:\$page}->${2:hasNextVisible(${3:\$sort}, ${4:\$direction})}
 ]]></content>
-	<tabTrigger>hasNextVisible</tabTrigger>
-	<description>Kirby: $page->hasNextVisible()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasNextVisible</tabTrigger>
+<description>Kirby: $page->hasNextVisible([$sort, $direction])</description>
+<scope>source.php</scope>
 </snippet>

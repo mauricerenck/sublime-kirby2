@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}find(${2})
+<content><![CDATA[
+${1:\$pages}->${2:find(${3:\$page})}
 ]]></content>
-	<tabTrigger>find</tabTrigger>
-	<description>Kirby: $pages->find()</description>
-	<scope>source.php</scope>
+<tabTrigger>find</tabTrigger>
+<description>Kirby: $pages->find($page)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}range(${2:\$range})
+<content><![CDATA[
+${1:\$pagination}->${2:range(${3:\$range=5})}
 ]]></content>
-	<tabTrigger>range</tabTrigger>
-	<description>Kirby: $pagination->range($range=5)</description>
-	<scope>source.php</scope>
+<tabTrigger>range</tabTrigger>
+<description>Kirby: $pagination->range($range=5)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hasInvisibleChildren()
+<content><![CDATA[
+${1:\$page}->${2:hasInvisibleChildren()}
 ]]></content>
-	<tabTrigger>hasInvisibleChildren</tabTrigger>
-	<description>Kirby: $page->hasInvisibleChildren()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasInvisibleChildren</tabTrigger>
+<description>Kirby: $page->hasInvisibleChildren()</description>
+<scope>source.php</scope>
 </snippet>

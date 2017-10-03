@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}isNotEmpty()
+<content><![CDATA[
+${1:\$field}->${2:isNotEmpty()}
 ]]></content>
-	<tabTrigger>isNotEmpty</tabTrigger>
-	<description>Kirby: $field->isNotEmpty()</description>
-	<scope>source.php</scope>
+<tabTrigger>isNotEmpty</tabTrigger>
+<description>Kirby: $field->isNotEmpty()</description>
+<scope>source.php</scope>
 </snippet>

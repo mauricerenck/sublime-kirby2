@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:role()}
+]]></content>
+<tabTrigger>role</tabTrigger>
+<description>Kirby: $user->role()</description>
+<scope>source.php</scope>
+</snippet>

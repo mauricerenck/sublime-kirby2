@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-invalid(${1:\$data},${2:\$rules},${3:\$messages});
-]]></content>
-	<tabTrigger>invalid</tabTrigger>
-	<description>Kirby: invalid($data, $rules, $messages = array())</description>
-	<scope>source.php</scope>
-</snippet>

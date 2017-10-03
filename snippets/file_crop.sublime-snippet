@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:crop(${3:\$width}, ${4:\$height = null}, ${5:\$quality = null})}
+]]></content>
+<tabTrigger>crop</tabTrigger>
+<description>Kirby: $file->crop($width, $height = null, $quality = null)</description>
+<scope>source.php</scope>
+</snippet>

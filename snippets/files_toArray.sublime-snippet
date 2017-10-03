@@ -1,10 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}toArray(${2:function()\{
-	${3}
-\}})
+<content><![CDATA[
+${1:\$files}->${2:toArray(${3:\$callback = null})}
 ]]></content>
-	<tabTrigger>toArray</tabTrigger>
-	<description>Kirby: $files->toArray($callback = null)</description>
-	<scope>source.php</scope>
+<tabTrigger>toArray</tabTrigger>
+<description>Kirby: $files->toArray($callback = null)</description>
+<scope>source.php</scope>
 </snippet>

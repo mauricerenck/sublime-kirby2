@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:avatars()}
+]]></content>
+<tabTrigger>avatars</tabTrigger>
+<description>Kirby: $roots->avatars()</description>
+<scope>source.php</scope>
+</snippet>

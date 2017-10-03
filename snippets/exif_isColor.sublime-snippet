@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}isColor()
+<content><![CDATA[
+${1:\$exif}->${2:isColor()}
 ]]></content>
-	<tabTrigger>isColor</tabTrigger>
-	<description>Kirby: $exif->isColor()</description>
-	<scope>source.php</scope>
+<tabTrigger>isColor</tabTrigger>
+<description>Kirby: $exif->isColor()</description>
+<scope>source.php</scope>
 </snippet>

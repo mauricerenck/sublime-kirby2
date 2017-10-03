@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}upper()
+<content><![CDATA[
+${1:\$field}->${2:upper()}
 ]]></content>
-	<tabTrigger>upper</tabTrigger>
-	<description>Kirby: $field->upper()</description>
-	<scope>source.php</scope>
+<tabTrigger>upper</tabTrigger>
+<description>Kirby: $field->upper()</description>
+<scope>source.php</scope>
 </snippet>

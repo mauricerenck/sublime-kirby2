@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->next()
+<content><![CDATA[
+${1:\$page}->${2:next(${3:\$sort}, ${4:\$direction})}
 ]]></content>
-	<tabTrigger>next</tabTrigger>
-	<description>Kirby: $page->next()</description>
-	<scope>source.php</scope>
+<tabTrigger>next</tabTrigger>
+<description>Kirby: $page->next([$sort, $direction])</description>
+<scope>source.php</scope>
 </snippet>

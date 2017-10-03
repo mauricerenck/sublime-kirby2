@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-youtube(${1:\$url});
-]]></content>
-	<tabTrigger>youtube</tabTrigger>
-	<description>Kirby: youtube($url)</description>
-	<scope>source.php</scope>
-</snippet>

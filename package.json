@@ -1,0 +1,10 @@
+{
+  "name": "Sublime Text 3 Kirby Snippets",
+  "version": "1.4.0",
+  "description": "Automatically generated Kirby CMS Snippets for Sublime Text 3",
+  "author": "Maurice Renck",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}

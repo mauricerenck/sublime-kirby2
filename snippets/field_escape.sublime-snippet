@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}escape()
+<content><![CDATA[
+${1:\$field}->${2:escape()}
 ]]></content>
-	<tabTrigger>escape</tabTrigger>
-	<description>Kirby: $field->escape()</description>
-	<scope>source.php</scope>
+<tabTrigger>escape</tabTrigger>
+<description>Kirby: $field->escape()</description>
+<scope>source.php</scope>
 </snippet>

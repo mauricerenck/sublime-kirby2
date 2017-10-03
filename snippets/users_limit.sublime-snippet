@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->limit(${2:\$limit})
+<content><![CDATA[
+${1:\$users}->${2:limit(${3:\$limit})}
 ]]></content>
-	<tabTrigger>limit</tabTrigger>
-	<description>Kirby: $users()->limit($limit)</description>
-	<scope>source.php</scope>
+<tabTrigger>limit</tabTrigger>
+<description>Kirby: $users->limit($limit)</description>
+<scope>source.php</scope>
 </snippet>

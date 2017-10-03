@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:content()}
+]]></content>
+<tabTrigger>content</tabTrigger>
+<description>Kirby: $roots->content()</description>
+<scope>source.php</scope>
+</snippet>

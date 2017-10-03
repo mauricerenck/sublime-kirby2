@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->language(${2:'en'})
+<content><![CDATA[
+${1:\$site}->${2:language(${3:\$code = null})}
 ]]></content>
-	<tabTrigger>language</tabTrigger>
-	<description>Kirby: $site->language($code = null)</description>
-	<scope>source.php</scope>
+<tabTrigger>language</tabTrigger>
+<description>Kirby: $site->language($code = null)</description>
+<scope>source.php</scope>
 </snippet>

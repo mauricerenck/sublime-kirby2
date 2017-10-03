@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:diruri()}
+]]></content>
+<tabTrigger>diruri</tabTrigger>
+<description>Kirby: $site->diruri()</description>
+<scope>source.php</scope>
+</snippet>

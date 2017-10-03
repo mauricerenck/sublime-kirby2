@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->videos()
+<content><![CDATA[
+${1:\$site}->${2:videos()}
 ]]></content>
-	<tabTrigger>videos</tabTrigger>
-	<description>Kirby: $site->videos()</description>
-	<scope>source.php</scope>
+<tabTrigger>videos</tabTrigger>
+<description>Kirby: $site->videos()</description>
+<scope>source.php</scope>
 </snippet>

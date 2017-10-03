@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:urlKey(${3:\$lang = null})}
+]]></content>
+<tabTrigger>urlKey</tabTrigger>
+<description>Kirby: $page->urlKey($lang = null)</description>
+<scope>source.php</scope>
+</snippet>

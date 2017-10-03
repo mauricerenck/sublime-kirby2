@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->toJson()
+<content><![CDATA[
+${1:\$users}->${2:toJson()}
 ]]></content>
-	<tabTrigger>toJson</tabTrigger>
-	<description>Kirby: $users()->toJson()</description>
-	<scope>source.php</scope>
+<tabTrigger>toJson</tabTrigger>
+<description>Kirby: $users->toJson()</description>
+<scope>source.php</scope>
 </snippet>

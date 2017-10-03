@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->url()
+<content><![CDATA[
+${1:\$page}->${2:url()}
 ]]></content>
-	<tabTrigger>url</tabTrigger>
-	<description>Kirby: $page->url()</description>
-	<scope>source.php</scope>
+<tabTrigger>url</tabTrigger>
+<description>Kirby: $page->url()</description>
+<scope>source.php</scope>
 </snippet>

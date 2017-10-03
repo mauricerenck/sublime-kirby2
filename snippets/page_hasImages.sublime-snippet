@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hasImages()
+<content><![CDATA[
+${1:\$page}->${2:hasImages()}
 ]]></content>
-	<tabTrigger>hasImages</tabTrigger>
-	<description>Kirby: $page->hasImages()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasImages</tabTrigger>
+<description>Kirby: $page->hasImages()</description>
+<scope>source.php</scope>
 </snippet>

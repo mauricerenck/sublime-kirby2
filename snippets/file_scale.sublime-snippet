@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:scale(${3:\$by})}
+]]></content>
+<tabTrigger>scale</tabTrigger>
+<description>Kirby: $file->scale($by)</description>
+<scope>source.php</scope>
+</snippet>

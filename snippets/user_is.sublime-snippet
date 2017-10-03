@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$user}->is(${2})
+<content><![CDATA[
+${1:\$user}->${2:is(${3:\$someone})}
 ]]></content>
-	<tabTrigger>is</tabTrigger>
-	<description>Kirby: $user()->is($someone)</description>
-	<scope>source.php</scope>
+<tabTrigger>is</tabTrigger>
+<description>Kirby: $user->is($someone)</description>
+<scope>source.php</scope>
 </snippet>

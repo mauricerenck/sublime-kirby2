@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}rangeEnd()
+<content><![CDATA[
+${1:\$pagination}->${2:rangeEnd()}
 ]]></content>
-	<tabTrigger>rangeEnd</tabTrigger>
-	<description>Kirby: $pagination->rangeEnd()</description>
-	<scope>source.php</scope>
+<tabTrigger>rangeEnd</tabTrigger>
+<description>Kirby: $pagination->rangeEnd()</description>
+<scope>source.php</scope>
 </snippet>

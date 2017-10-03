@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}slice(${2:\$offset}${3:, \$limit})
+<content><![CDATA[
+${1:\$files}->${2:slice(${3:\$offset = null}, ${4:\$limit = null})}
 ]]></content>
-	<tabTrigger>slice</tabTrigger>
-	<description>Kirby: $files->slice($offset = null, $limit = null)</description>
-	<scope>source.php</scope>
+<tabTrigger>slice</tabTrigger>
+<description>Kirby: $files->slice($offset = null, $limit = null)</description>
+<scope>source.php</scope>
 </snippet>

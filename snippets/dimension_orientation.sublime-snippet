@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}orientation()
+<content><![CDATA[
+${1:\$dimension}->${2:orientation()}
 ]]></content>
-	<tabTrigger>orientation</tabTrigger>
-	<description>Kirby: $dimension->orientation()</description>
-	<scope>source.php</scope>
+<tabTrigger>orientation</tabTrigger>
+<description>Kirby: $dimension->orientation()</description>
+<scope>source.php</scope>
 </snippet>

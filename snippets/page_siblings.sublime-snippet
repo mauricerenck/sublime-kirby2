@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->siblings(${2:self_bool})
+<content><![CDATA[
+${1:\$page}->${2:siblings(${3:\$self = true})}
 ]]></content>
-	<tabTrigger>siblings</tabTrigger>
-	<description>Kirby: $page->siblings($self = true)</description>
-	<scope>source.php</scope>
+<tabTrigger>siblings</tabTrigger>
+<description>Kirby: $page->siblings($self = true)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:cli()}
+]]></content>
+<tabTrigger>cli</tabTrigger>
+<description>Kirby: $request->cli()</description>
+<scope>source.php</scope>
+</snippet>

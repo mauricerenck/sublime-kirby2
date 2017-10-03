@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:move(${3:\$to})}
+]]></content>
+<tabTrigger>move</tabTrigger>
+<description>Kirby: $file->move($to)</description>
+<scope>source.php</scope>
+</snippet>

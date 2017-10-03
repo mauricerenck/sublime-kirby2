@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:header(${3:\$send = true})}
+]]></content>
+<tabTrigger>header</tabTrigger>
+<description>Kirby: $file->header($send = true)</description>
+<scope>source.php</scope>
+</snippet>

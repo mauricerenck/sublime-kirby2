@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:hasNextInvisible(${3:\$sort}, ${4:\$direction})}
+]]></content>
+<tabTrigger>hasNextInvisible</tabTrigger>
+<description>Kirby: $page->hasNextInvisible([$sort, $direction])</description>
+<scope>source.php</scope>
+</snippet>

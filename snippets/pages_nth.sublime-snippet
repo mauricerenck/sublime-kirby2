@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}nth(${2:\$nth})
+<content><![CDATA[
+${1:\$pages}->${2:nth(${3:\$n})}
 ]]></content>
-	<tabTrigger>nth</tabTrigger>
-	<description>Kirby: $pages->nth($n)</description>
-	<scope>source.php</scope>
+<tabTrigger>nth</tabTrigger>
+<description>Kirby: $pages->nth($n)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:$content(${2:[\$lang]})}->${3:has(${4:\$key})}
+]]></content>
+<tabTrigger>has</tabTrigger>
+<description>Kirby: $content([$lang])->has($key)</description>
+<scope>source.php</scope>
+</snippet>

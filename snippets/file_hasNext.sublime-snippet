@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}hasNext()
+<content><![CDATA[
+${1:\$file}->${2:hasNext()}
 ]]></content>
-	<tabTrigger>hasNext</tabTrigger>
-	<description>Kirby: $file->hasNext()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasNext</tabTrigger>
+<description>Kirby: $file->hasNext()</description>
+<scope>source.php</scope>
 </snippet>

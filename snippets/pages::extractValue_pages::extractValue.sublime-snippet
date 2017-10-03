@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:pages::extractValue(${2:\$item}, ${3:\$field})}
+]]></content>
+<tabTrigger>pages::extractValue</tabTrigger>
+<description>Kirby: pages::extractValue($item, $field)</description>
+<scope>source.php</scope>
+</snippet>

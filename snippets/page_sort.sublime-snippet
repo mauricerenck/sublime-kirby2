@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->sort({2:num})
+<content><![CDATA[
+${1:\$page}->${2:sort(${3:\$num = null})}
 ]]></content>
-	<tabTrigger>sort</tabTrigger>
-	<description>Kirby: $page->sort($num)</description>
-	<scope>source.php</scope>
+<tabTrigger>sort</tabTrigger>
+<description>Kirby: $page->sort($num = null)</description>
+<scope>source.php</scope>
 </snippet>

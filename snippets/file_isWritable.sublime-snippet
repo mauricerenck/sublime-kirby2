@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}isWritable()
+<content><![CDATA[
+${1:\$file}->${2:isWritable()}
 ]]></content>
-	<tabTrigger>isWritable</tabTrigger>
-	<description>Kirby: $file->isWritable()</description>
-	<scope>source.php</scope>
+<tabTrigger>isWritable</tabTrigger>
+<description>Kirby: $file->isWritable()</description>
+<scope>source.php</scope>
 </snippet>

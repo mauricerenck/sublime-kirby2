@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hasPrevVisible()
+<content><![CDATA[
+${1:\$page}->${2:hasPrevVisible(${3:\$sort}, ${4:\$direction})}
 ]]></content>
-	<tabTrigger>hasPrevVisible</tabTrigger>
-	<description>Kirby: $page->hasPrevVisible()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasPrevVisible</tabTrigger>
+<description>Kirby: $page->hasPrevVisible([$sort, $direction])</description>
+<scope>source.php</scope>
 </snippet>

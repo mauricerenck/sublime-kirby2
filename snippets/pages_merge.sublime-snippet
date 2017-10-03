@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$pages}->${2:merge(${3:\$collection2})}
+]]></content>
+<tabTrigger>merge</tabTrigger>
+<description>Kirby: $pages->merge($collection2)</description>
+<scope>source.php</scope>
+</snippet>

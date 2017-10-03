@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$user}->${2:permission(${3:\$event}, ${4:\$args =})}
+]]></content>
+<tabTrigger>permission</tabTrigger>
+<description>Kirby: $user->permission($event, $args = [])</description>
+<scope>source.php</scope>
+</snippet>

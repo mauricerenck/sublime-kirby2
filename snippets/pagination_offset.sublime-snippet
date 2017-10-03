@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}offset()
+<content><![CDATA[
+${1:\$pagination}->${2:offset()}
 ]]></content>
-	<tabTrigger>offset</tabTrigger>
-	<description>Kirby: $pagination->offset()</description>
-	<scope>source.php</scope>
+<tabTrigger>offset</tabTrigger>
+<description>Kirby: $pagination->offset()</description>
+<scope>source.php</scope>
 </snippet>

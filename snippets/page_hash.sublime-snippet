@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hash()
+<content><![CDATA[
+${1:\$page}->${2:hash()}
 ]]></content>
-	<tabTrigger>hash</tabTrigger>
-	<description>Kirby: $page->hash()</description>
-	<scope>source.php</scope>
+<tabTrigger>hash</tabTrigger>
+<description>Kirby: $page->hash()</description>
+<scope>source.php</scope>
 </snippet>

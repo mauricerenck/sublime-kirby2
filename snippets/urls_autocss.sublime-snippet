@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$urls}->${2:autocss()}
+]]></content>
+<tabTrigger>autocss</tabTrigger>
+<description>Kirby: $urls->autocss()</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}download()
+<content><![CDATA[
+${1:\$file}->${2:download(${3:\$filename = null})}
 ]]></content>
-	<tabTrigger>download</tabTrigger>
-	<description>Kirby: $file->download()</description>
-	<scope>source.php</scope>
+<tabTrigger>download</tabTrigger>
+<description>Kirby: $file->download($filename = null)</description>
+<scope>source.php</scope>
 </snippet>

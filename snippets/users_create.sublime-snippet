@@ -1,14 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->create(array(
-	'username'  => '${2}',
-	'email'     => '${3}',
-	'password'  => '${4}',
-	'firstName' => '${5}',
-	'lastName'  => '${6}'
-));
+<content><![CDATA[
+${1:\$users}->${2:create(${3:\$data = array()})}
 ]]></content>
-	<tabTrigger>create</tabTrigger>
-	<description>Kirby: $users()->create($data = array())</description>
-	<scope>source.php</scope>
+<tabTrigger>create</tabTrigger>
+<description>Kirby: $users->create($data = array())</description>
+<scope>source.php</scope>
 </snippet>

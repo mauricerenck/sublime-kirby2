@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->update(${2:\$data_array})
+<content><![CDATA[
+${1:\$page}->${2:update(${3:\$data = array()}, ${4:[\$lang = null]})}
 ]]></content>
-	<tabTrigger>update</tabTrigger>
-	<description>Kirby: $page->update($data = array())</description>
-	<scope>source.php</scope>
+<tabTrigger>update</tabTrigger>
+<description>Kirby: $page->update($data = array() [, $lang = null])</description>
+<scope>source.php</scope>
 </snippet>

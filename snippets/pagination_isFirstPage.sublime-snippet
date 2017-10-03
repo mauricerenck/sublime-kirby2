@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}isFirstPage()
+<content><![CDATA[
+${1:\$pagination}->${2:isFirstPage()}
 ]]></content>
-	<tabTrigger>isFirstPage</tabTrigger>
-	<description>Kirby: $pagination->isFirstPage()</description>
-	<scope>source.php</scope>
+<tabTrigger>isFirstPage</tabTrigger>
+<description>Kirby: $pagination->isFirstPage()</description>
+<scope>source.php</scope>
 </snippet>

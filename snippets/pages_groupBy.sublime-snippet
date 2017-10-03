@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}groupBy(${2:\$field}, ${3:true})
+<content><![CDATA[
+${1:\$pages}->${2:groupBy(${3:\$field}, ${4:\$caseInsensitive = true})}
 ]]></content>
-	<tabTrigger>groupBy</tabTrigger>
-	<description>Kirby: $pages->groupBy($field, $caseInsensitive = true)</description>
-	<scope>source.php</scope>
+<tabTrigger>groupBy</tabTrigger>
+<description>Kirby: $pages->groupBy($field, $caseInsensitive = true)</description>
+<scope>source.php</scope>
 </snippet>

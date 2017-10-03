@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}dataUri()
+<content><![CDATA[
+${1:\$file}->${2:dataUri()}
 ]]></content>
-	<tabTrigger>dataUri</tabTrigger>
-	<description>Kirby: $file->dataUri()</description>
-	<scope>source.php</scope>
+<tabTrigger>dataUri</tabTrigger>
+<description>Kirby: $file->dataUri()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:remove()}
+]]></content>
+<tabTrigger>remove</tabTrigger>
+<description>Kirby: $file->remove()</description>
+<scope>source.php</scope>
+</snippet>

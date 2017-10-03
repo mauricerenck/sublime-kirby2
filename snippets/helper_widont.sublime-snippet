@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-widont(${1:\$text});
-]]></content>
-	<tabTrigger>widont</tabTrigger>
-	<description>Kirby: widont($text)</description>
-	<scope>source.php</scope>
-</snippet>

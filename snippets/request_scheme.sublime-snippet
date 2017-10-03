@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:scheme()}
+]]></content>
+<tabTrigger>scheme</tabTrigger>
+<description>Kirby: $request->scheme()</description>
+<scope>source.php</scope>
+</snippet>

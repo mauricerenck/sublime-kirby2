@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->prev()
+<content><![CDATA[
+${1:\$page}->${2:prev(${3:\$sort}, ${4:\$direction})}
 ]]></content>
-	<tabTrigger>prev</tabTrigger>
-	<description>Kirby: $page->prev()</description>
-	<scope>source.php</scope>
+<tabTrigger>prev</tabTrigger>
+<description>Kirby: $page->prev([$sort, $direction])</description>
+<scope>source.php</scope>
 </snippet>

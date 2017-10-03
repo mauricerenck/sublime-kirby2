@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->isHomePage()
+<content><![CDATA[
+${1:\$page}->${2:isHomePage()}
 ]]></content>
-	<tabTrigger>isHomePage</tabTrigger>
-	<description>Kirby: $page->isHomePage()</description>
-	<scope>source.php</scope>
+<tabTrigger>isHomePage</tabTrigger>
+<description>Kirby: $page->isHomePage()</description>
+<scope>source.php</scope>
 </snippet>

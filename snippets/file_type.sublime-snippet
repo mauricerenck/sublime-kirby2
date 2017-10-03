@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}type()
+<content><![CDATA[
+${1:\$file}->${2:type()}
 ]]></content>
-	<tabTrigger>type</tabTrigger>
-	<description>Kirby: $file->type()</description>
-	<scope>source.php</scope>
+<tabTrigger>type</tabTrigger>
+<description>Kirby: $file->type()</description>
+<scope>source.php</scope>
 </snippet>

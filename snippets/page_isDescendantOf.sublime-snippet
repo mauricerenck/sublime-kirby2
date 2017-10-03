@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->isDescendantOf(${2:\$parent})
+<content><![CDATA[
+${1:\$page}->${2:isDescendantOf(${3:\$parent})}
 ]]></content>
-	<tabTrigger>isDescendantOf</tabTrigger>
-	<description>Kirby: $page->isDescendantOf($parent)</description>
-	<scope>source.php</scope>
+<tabTrigger>isDescendantOf</tabTrigger>
+<description>Kirby: $page->isDescendantOf($parent)</description>
+<scope>source.php</scope>
 </snippet>

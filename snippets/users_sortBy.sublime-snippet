@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->sortBy(${2:\$field}${3:, \$direction}${4:, \$method})
+<content><![CDATA[
+${1:\$users}->${2:sortBy(${3:\$field}, ${4:\$direction = 'desc'}, ${5:\$method = SORT_REGULAR})}
 ]]></content>
-	<tabTrigger>sortBy</tabTrigger>
-	<description>Kirby: $users()->sortBy($field, $direction = 'desc', $method = SORT_REGULAR)</description>
-	<scope>source.php</scope>
+<tabTrigger>sortBy</tabTrigger>
+<description>Kirby: $users->sortBy($field, $direction = 'desc', $method = SORT_REGULAR)</description>
+<scope>source.php</scope>
 </snippet>

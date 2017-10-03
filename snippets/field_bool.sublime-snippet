@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}bool()
+<content><![CDATA[
+${1:\$field}->${2:bool()}
 ]]></content>
-	<tabTrigger>bool</tabTrigger>
-	<description>Kirby: $field->bool()</description>
-	<scope>source.php</scope>
+<tabTrigger>bool</tabTrigger>
+<description>Kirby: $field->bool()</description>
+<scope>source.php</scope>
 </snippet>

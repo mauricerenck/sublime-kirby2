@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:has(${3:\$key})}
+]]></content>
+<tabTrigger>has</tabTrigger>
+<description>Kirby: $request->has($key)</description>
+<scope>source.php</scope>
+</snippet>

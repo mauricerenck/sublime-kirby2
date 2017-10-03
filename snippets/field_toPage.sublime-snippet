@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}toPage()
+<content><![CDATA[
+${1:\$field}->${2:toPage()}
 ]]></content>
-	<tabTrigger>toPage</tabTrigger>
-	<description>Kirby: $field->toPage()</description>
-	<scope>source.php</scope>
+<tabTrigger>toPage</tabTrigger>
+<description>Kirby: $field->toPage()</description>
+<scope>source.php</scope>
 </snippet>

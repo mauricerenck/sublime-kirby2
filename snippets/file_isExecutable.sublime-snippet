@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:isExecutable()}
+]]></content>
+<tabTrigger>isExecutable</tabTrigger>
+<description>Kirby: $file->isExecutable()</description>
+<scope>source.php</scope>
+</snippet>

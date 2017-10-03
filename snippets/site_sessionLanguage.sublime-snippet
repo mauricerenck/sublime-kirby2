@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$site}->${2:sessionLanguage()}
+]]></content>
+<tabTrigger>sessionLanguage</tabTrigger>
+<description>Kirby: $site->sessionLanguage()</description>
+<scope>source.php</scope>
+</snippet>

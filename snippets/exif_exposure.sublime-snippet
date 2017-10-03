@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}exposure()
+<content><![CDATA[
+${1:\$exif}->${2:exposure()}
 ]]></content>
-	<tabTrigger>exposure</tabTrigger>
-	<description>Kirby: $exif->exposure()</description>
-	<scope>source.php</scope>
+<tabTrigger>exposure</tabTrigger>
+<description>Kirby: $exif->exposure()</description>
+<scope>source.php</scope>
 </snippet>

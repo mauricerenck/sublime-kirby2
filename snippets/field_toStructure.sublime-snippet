@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}toStructure()
+<content><![CDATA[
+${1:\$field}->${2:toStructure()}
 ]]></content>
-	<tabTrigger>toStructure</tabTrigger>
-	<description>Kirby: $field->toStructure()</description>
-	<scope>source.php</scope>
+<tabTrigger>toStructure</tabTrigger>
+<description>Kirby: $field->toStructure()</description>
+<scope>source.php</scope>
 </snippet>

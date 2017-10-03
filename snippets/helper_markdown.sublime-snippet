@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-markdown(${1:\$text});
-]]></content>
-	<tabTrigger>markdown</tabTrigger>
-	<description>Kirby: markdown($text)</description>
-	<scope>source.php</scope>
-</snippet>

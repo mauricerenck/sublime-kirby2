@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-gravatar(${1:\$email}${2:,\$size});
-]]></content>
-	<tabTrigger>gravatar</tabTrigger>
-	<description>Kirby: gravatar($email, $size = 256)</description>
-	<scope>source.php</scope>
-</snippet>

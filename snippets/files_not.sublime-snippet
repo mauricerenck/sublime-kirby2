@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}not(${2:\$file})
+<content><![CDATA[
+${1:\$files}->${2:not()}
 ]]></content>
-	<tabTrigger>not</tabTrigger>
-	<description>Kirby: $files->not($file)</description>
-	<scope>source.php</scope>
+<tabTrigger>not</tabTrigger>
+<description>Kirby: $files->not()</description>
+<scope>source.php</scope>
 </snippet>

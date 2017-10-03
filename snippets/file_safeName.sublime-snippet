@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:safeName()}
+]]></content>
+<tabTrigger>safeName</tabTrigger>
+<description>Kirby: $file->safeName()</description>
+<scope>source.php</scope>
+</snippet>

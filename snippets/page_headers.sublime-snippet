@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:headers()}
+]]></content>
+<tabTrigger>headers</tabTrigger>
+<description>Kirby: $page->headers()</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$language}->${2:direction()}
+]]></content>
+<tabTrigger>direction</tabTrigger>
+<description>Kirby: $language->direction()</description>
+<scope>source.php</scope>
+</snippet>

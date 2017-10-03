@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:isCacheable()}
+]]></content>
+<tabTrigger>isCacheable</tabTrigger>
+<description>Kirby: $page->isCacheable()</description>
+<scope>source.php</scope>
+</snippet>

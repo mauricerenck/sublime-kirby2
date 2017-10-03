@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->url()
+<content><![CDATA[
+${1:\$site}->${2:url(${3:[\$lang=false]})}
 ]]></content>
-	<tabTrigger>url</tabTrigger>
-	<description>Kirby: $site->url()</description>
-	<scope>source.php</scope>
+<tabTrigger>url</tabTrigger>
+<description>Kirby: $site->url([$lang=false])</description>
+<scope>source.php</scope>
 </snippet>

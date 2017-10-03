@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pages->}findOpen()
+<content><![CDATA[
+${1:\$pages}->${2:findOpen()}
 ]]></content>
-	<tabTrigger>findOpen</tabTrigger>
-	<description>Kirby: $pages->findOpen()</description>
-	<scope>source.php</scope>
+<tabTrigger>findOpen</tabTrigger>
+<description>Kirby: $pages->findOpen()</description>
+<scope>source.php</scope>
 </snippet>

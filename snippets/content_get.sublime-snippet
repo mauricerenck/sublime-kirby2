@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:$content(${2:[\$lang]})}->${3:get(${4:\$key}, ${5:\$arguments = null})}
+]]></content>
+<tabTrigger>get</tabTrigger>
+<description>Kirby: $content([$lang])->get($key, $arguments = null)</description>
+<scope>source.php</scope>
+</snippet>

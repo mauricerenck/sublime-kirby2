@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:date(${3:\$format = null}, ${4:\$field = 'date'})}
+]]></content>
+<tabTrigger>date</tabTrigger>
+<description>Kirby: $file->date($format = null, $field = 'date')</description>
+<scope>source.php</scope>
+</snippet>

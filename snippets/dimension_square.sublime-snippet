@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}square()
+<content><![CDATA[
+${1:\$dimension}->${2:square()}
 ]]></content>
-	<tabTrigger>square</tabTrigger>
-	<description>Kirby: $dimension->square()</description>
-	<scope>source.php</scope>
+<tabTrigger>square</tabTrigger>
+<description>Kirby: $dimension->square()</description>
+<scope>source.php</scope>
 </snippet>

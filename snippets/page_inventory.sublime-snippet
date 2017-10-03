@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:inventory()}
+]]></content>
+<tabTrigger>inventory</tabTrigger>
+<description>Kirby: $page->inventory()</description>
+<scope>source.php</scope>
+</snippet>

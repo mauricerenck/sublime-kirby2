@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:textfile(${3:[\$language]})}
+]]></content>
+<tabTrigger>textfile</tabTrigger>
+<description>Kirby: $file->textfile([$language])</description>
+<scope>source.php</scope>
+</snippet>

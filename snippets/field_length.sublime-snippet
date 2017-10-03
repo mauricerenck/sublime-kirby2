@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}length()
+<content><![CDATA[
+${1:\$field}->${2:length()}
 ]]></content>
-	<tabTrigger>length</tabTrigger>
-	<description>Kirby: $field->length()</description>
-	<scope>source.php</scope>
+<tabTrigger>length</tabTrigger>
+<description>Kirby: $field->length()</description>
+<scope>source.php</scope>
 </snippet>

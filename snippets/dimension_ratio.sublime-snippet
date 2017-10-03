@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}ratio()
+<content><![CDATA[
+${1:\$dimension}->${2:ratio()}
 ]]></content>
-	<tabTrigger>ratio</tabTrigger>
-	<description>Kirby: $dimension->ratio()</description>
-	<scope>source.php</scope>
+<tabTrigger>ratio</tabTrigger>
+<description>Kirby: $dimension->ratio()</description>
+<scope>source.php</scope>
 </snippet>

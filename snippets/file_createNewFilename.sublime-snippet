@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:createNewFilename(${3:\$name}, ${4:\$safeName = true})}
+]]></content>
+<tabTrigger>createNewFilename</tabTrigger>
+<description>Kirby: $file->createNewFilename($name, $safeName = true)</description>
+<scope>source.php</scope>
+</snippet>

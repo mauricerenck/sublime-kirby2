@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->flip()
+<content><![CDATA[
+${1:\$users}->${2:flip()}
 ]]></content>
-	<tabTrigger>flip</tabTrigger>
-	<description>Kirby: $users()->flip()</description>
-	<scope>source.php</scope>
+<tabTrigger>flip</tabTrigger>
+<description>Kirby: $users->flip()</description>
+<scope>source.php</scope>
 </snippet>

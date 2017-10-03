@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:config()}
+]]></content>
+<tabTrigger>config</tabTrigger>
+<description>Kirby: $roots->config()</description>
+<scope>source.php</scope>
+</snippet>

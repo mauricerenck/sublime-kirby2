@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:exif()->}iso()
+<content><![CDATA[
+${1:\$exif}->${2:iso()}
 ]]></content>
-	<tabTrigger>iso</tabTrigger>
-	<description>Kirby: $exif->iso()</description>
-	<scope>source.php</scope>
+<tabTrigger>iso</tabTrigger>
+<description>Kirby: $exif->iso()</description>
+<scope>source.php</scope>
 </snippet>

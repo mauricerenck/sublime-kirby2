@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$pagination->}nextPage()
+<content><![CDATA[
+${1:\$pagination}->${2:nextPage()}
 ]]></content>
-	<tabTrigger>nextPage</tabTrigger>
-	<description>Kirby: $pagination->nextPage()</description>
-	<scope>source.php</scope>
+<tabTrigger>nextPage</tabTrigger>
+<description>Kirby: $pagination->nextPage()</description>
+<scope>source.php</scope>
 </snippet>

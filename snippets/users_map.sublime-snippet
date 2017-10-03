@@ -1,10 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$users}->map(${2:function()\{
-	${3}
-\}})
+<content><![CDATA[
+${1:\$users}->${2:map(${3:\$callback})}
 ]]></content>
-	<tabTrigger>map</tabTrigger>
-	<description>Kirby: $users()->map($callback)</description>
-	<scope>source.php</scope>
+<tabTrigger>map</tabTrigger>
+<description>Kirby: $users->map($callback)</description>
+<scope>source.php</scope>
 </snippet>

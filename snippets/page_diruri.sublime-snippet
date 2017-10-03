@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->diruri()
+<content><![CDATA[
+${1:\$page}->${2:diruri()}
 ]]></content>
-	<tabTrigger>diruri</tabTrigger>
-	<description>Kirby: $page->diruri()</description>
-	<scope>source.php</scope>
+<tabTrigger>diruri</tabTrigger>
+<description>Kirby: $page->diruri()</description>
+<scope>source.php</scope>
 </snippet>

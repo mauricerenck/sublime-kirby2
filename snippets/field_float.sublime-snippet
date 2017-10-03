@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$field}->${2:float()}
+]]></content>
+<tabTrigger>float</tabTrigger>
+<description>Kirby: $field->float()</description>
+<scope>source.php</scope>
+</snippet>

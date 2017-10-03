@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:create(${3:\$uri}, ${4:\$template}, ${5:\$data = array()})}
+]]></content>
+<tabTrigger>create</tabTrigger>
+<description>Kirby: $page->create($uri, $template, $data = array())</description>
+<scope>source.php</scope>
+</snippet>

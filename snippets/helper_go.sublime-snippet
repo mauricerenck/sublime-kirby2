@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-go(${1:'blog'});
-]]></content>
-	<tabTrigger>go</tabTrigger>
-	<description>Kirby: go($url = '/')</description>
-	<scope>source.php</scope>
-</snippet>

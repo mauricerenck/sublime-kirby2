@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:touch()}
+]]></content>
+<tabTrigger>touch</tabTrigger>
+<description>Kirby: $file->touch()</description>
+<scope>source.php</scope>
+</snippet>

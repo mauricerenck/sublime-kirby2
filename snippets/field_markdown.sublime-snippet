@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$field->}markdown()
+<content><![CDATA[
+${1:\$field}->${2:markdown()}
 ]]></content>
-	<tabTrigger>markdown</tabTrigger>
-	<description>Kirby: $field->markdown()</description>
-	<scope>source.php</scope>
+<tabTrigger>markdown</tabTrigger>
+<description>Kirby: $field->markdown()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$urls}->${2:index()}
+]]></content>
+<tabTrigger>index</tabTrigger>
+<description>Kirby: $urls->index()</description>
+<scope>source.php</scope>
+</snippet>

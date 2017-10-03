@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$field}->${2:smartypants()}
+]]></content>
+<tabTrigger>smartypants</tabTrigger>
+<description>Kirby: $field->smartypants()</description>
+<scope>source.php</scope>
+</snippet>

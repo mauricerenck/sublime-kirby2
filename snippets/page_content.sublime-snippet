@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->content()
+<content><![CDATA[
+${1:\$page}->${2:content(${3:[\$lang = null]})}
 ]]></content>
-	<tabTrigger>content</tabTrigger>
-	<description>Kirby: $page->content()</description>
-	<scope>source.php</scope>
+<tabTrigger>content</tabTrigger>
+<description>Kirby: $page->content([$lang = null])</description>
+<scope>source.php</scope>
 </snippet>

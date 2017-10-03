@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->modified(${2:'d.m.Y H:i'})
+<content><![CDATA[
+${1:\$site}->${2:modified(${3:\$format = false})}
 ]]></content>
-	<tabTrigger>modified</tabTrigger>
-	<description>Kirby: $site->modified($format = false)</description>
-	<scope>source.php</scope>
+<tabTrigger>modified</tabTrigger>
+<description>Kirby: $site->modified($format = false)</description>
+<scope>source.php</scope>
 </snippet>

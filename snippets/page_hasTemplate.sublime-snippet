@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->hasTemplate()
+<content><![CDATA[
+${1:\$page}->${2:hasTemplate()}
 ]]></content>
-	<tabTrigger>hasTemplate</tabTrigger>
-	<description>Kirby: $page->hasTemplate()</description>
-	<scope>source.php</scope>
+<tabTrigger>hasTemplate</tabTrigger>
+<description>Kirby: $page->hasTemplate()</description>
+<scope>source.php</scope>
 </snippet>

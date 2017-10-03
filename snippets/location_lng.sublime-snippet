@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$exif->}${2:location()->}lng()
+<content><![CDATA[
+${1:\$location}->${2:lng()}
 ]]></content>
-	<tabTrigger>lng</tabTrigger>
-	<description>Kirby: $location->lng()</description>
-	<scope>source.php</scope>
+<tabTrigger>lng</tabTrigger>
+<description>Kirby: $location->lng()</description>
+<scope>source.php</scope>
 </snippet>

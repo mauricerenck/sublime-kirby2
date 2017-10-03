@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-u(${1:\$path});
-]]></content>
-	<tabTrigger>u</tabTrigger>
-	<description>Kirby: u($path = '/')</description>
-	<scope>source.php</scope>
-</snippet>

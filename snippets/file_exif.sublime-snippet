@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}exif()
+<content><![CDATA[
+${1:\$file}->${2:exif()}
 ]]></content>
-	<tabTrigger>exif</tabTrigger>
-	<description>Kirby: $file->exif()</description>
-	<scope>source.php</scope>
+<tabTrigger>exif</tabTrigger>
+<description>Kirby: $file->exif()</description>
+<scope>source.php</scope>
 </snippet>

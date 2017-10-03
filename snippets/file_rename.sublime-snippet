@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$file->}rename(${2:\$to})
+<content><![CDATA[
+${1:\$file}->${2:rename(${3:\$name}, ${4:\$safeName = true})}
 ]]></content>
-	<tabTrigger>rename</tabTrigger>
-	<description>Kirby: $file->rename($to)</description>
-	<scope>source.php</scope>
+<tabTrigger>rename</tabTrigger>
+<description>Kirby: $file->rename($name, $safeName = true)</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$image->}${2:dimensions()->}portrait(${3})
+<content><![CDATA[
+${1:\$dimension}->${2:portrait()}
 ]]></content>
-	<tabTrigger>portrait</tabTrigger>
-	<description>Kirby: $dimension->portrait()</description>
-	<scope>source.php</scope>
+<tabTrigger>portrait</tabTrigger>
+<description>Kirby: $dimension->portrait()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$roots}->${2:autojs()}
+]]></content>
+<tabTrigger>autojs</tabTrigger>
+<description>Kirby: $roots->autojs()</description>
+<scope>source.php</scope>
+</snippet>

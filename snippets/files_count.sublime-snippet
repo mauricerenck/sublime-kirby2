@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$files->}count()
+<content><![CDATA[
+${1:\$files}->${2:count()}
 ]]></content>
-	<tabTrigger>count</tabTrigger>
-	<description>Kirby: $files->count()</description>
-	<scope>source.php</scope>
+<tabTrigger>count</tabTrigger>
+<description>Kirby: $files->count()</description>
+<scope>source.php</scope>
 </snippet>

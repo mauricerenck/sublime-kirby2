@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$site}->locale()
+<content><![CDATA[
+${1:\$site}->${2:locale()}
 ]]></content>
-	<tabTrigger>locale</tabTrigger>
-	<description>Kirby: $site->locale()</description>
-	<scope>source.php</scope>
+<tabTrigger>locale</tabTrigger>
+<description>Kirby: $site->locale()</description>
+<scope>source.php</scope>
 </snippet>

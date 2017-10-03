@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:meta(${3:[\$language]})}
+]]></content>
+<tabTrigger>meta</tabTrigger>
+<description>Kirby: $file->meta([$language])</description>
+<scope>source.php</scope>
+</snippet>

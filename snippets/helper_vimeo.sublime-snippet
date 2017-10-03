@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-vimeo(${1:\$url});
-]]></content>
-	<tabTrigger>vimeo</tabTrigger>
-	<description>Kirby: vimeo($url)</description>
-	<scope>source.php</scope>
-</snippet>

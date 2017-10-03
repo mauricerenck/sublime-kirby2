@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->isInvisible()
+<content><![CDATA[
+${1:\$page}->${2:isInvisible()}
 ]]></content>
-	<tabTrigger>isInvisible</tabTrigger>
-	<description>Kirby: $page->isInvisible()</description>
-	<scope>source.php</scope>
+<tabTrigger>isInvisible</tabTrigger>
+<description>Kirby: $page->isInvisible()</description>
+<scope>source.php</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:url()}
+]]></content>
+<tabTrigger>url</tabTrigger>
+<description>Kirby: $request->url()</description>
+<scope>source.php</scope>
+</snippet>

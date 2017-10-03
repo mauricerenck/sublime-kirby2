@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$page}->${2:move(${3:\$uid})}
+]]></content>
+<tabTrigger>move</tabTrigger>
+<description>Kirby: $page->move($uid)</description>
+<scope>source.php</scope>
+</snippet>

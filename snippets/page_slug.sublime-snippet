@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[
-${1:\$page}->slug()
+<content><![CDATA[
+${1:\$page}->${2:slug(${3:[\$lang = null]})}
 ]]></content>
-	<tabTrigger>slug</tabTrigger>
-	<description>Kirby: $page->slug()</description>
-	<scope>source.php</scope>
+<tabTrigger>slug</tabTrigger>
+<description>Kirby: $page->slug([$lang = null])</description>
+<scope>source.php</scope>
 </snippet>

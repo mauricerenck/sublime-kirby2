@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:load(${3:\$data = array()})}
+]]></content>
+<tabTrigger>load</tabTrigger>
+<description>Kirby: $file->load($data = array())</description>
+<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$file}->${2:blur()}
+]]></content>
+<tabTrigger>blur</tabTrigger>
+<description>Kirby: $file->blur()</description>
+<scope>source.php</scope>
+</snippet>

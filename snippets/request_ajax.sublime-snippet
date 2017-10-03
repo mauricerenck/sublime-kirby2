@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+${1:\$request}->${2:ajax()}
+]]></content>
+<tabTrigger>ajax</tabTrigger>
+<description>Kirby: $request->ajax()</description>
+<scope>source.php</scope>
+</snippet>
