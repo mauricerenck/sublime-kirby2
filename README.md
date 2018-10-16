@@ -1,5 +1,9 @@
 # Kirby 2 CMS Snippets for Sublime Text
 
+
+***This repository is no longer Maintained. If you'd like to keep it up to date, send me a message!***
+
+
 Just install via [Package Control](https://packagecontrol.io/packages/Kirby2%20CMS%20Snippets) (search for kirby2).
 
 Work in progress, feel free to add snippets and report bugs.
